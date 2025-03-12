@@ -1,0 +1,3 @@
+[console_scripts]
+bpyutils = bpyutils.__main__:main
+

@@ -1,0 +1,3 @@
+[console_scripts]
+wayback-machine-scraper = wayback_machine_scraper.__main__:main
+
