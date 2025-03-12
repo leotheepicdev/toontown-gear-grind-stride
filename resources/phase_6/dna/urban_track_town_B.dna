@@ -1,0 +1,1954 @@
+group "theBurrrgh" [
+ node "LongStreet" [
+ ]
+ node "Buildings_innersidest-outerbarricade_2" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -3241.48 -3084.72 2.28179 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3318.31 -3090.31 2.61942 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3364.02 -3096.03 2.87005 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3419.44 -3104.35 3.20277 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3488.5 -3115.71 3.63524 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3552.43 -3126.95 4.0156 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -3606.47 -3137.45 4.27786 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -3671.75 -3152.52 4.41708 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3726.05 -3169.81 4.17269 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3792.42 -3212.58 3.1915 ]
+   nhpr [ 0 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3815.58 -3237.98 2.81762 ]
+   nhpr [ 0 0 0 ]
+  ]
+ ]
+ node "Buildings_innersidest-outerbarricade_3" [
+ ]
+ node "Buildings_innersidest-innerbarricade_4" [
+ ]
+ node "Buildings_innersidest-outerbarricade_5" [
+ ]
+ node "Buildings_innersidest-innerbarricade_6" [
+ ]
+ node "Buildings_innersidest-outerbarricade_7" [
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 316.699 -1995.69 2.71453 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 316.825 -2052.68 2.41747 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 316.721 -2098.67 2.06252 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 316.988 -2154.7 1.85399 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 318.278 -2223.64 2.04658 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 320.924 -2297.56 2.59582 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 325.177 -2373.38 3.1306 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 331.498 -2440.08 3.17681 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 340.457 -2484.23 3.13008 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 356.92 -2529.26 3.09364 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 380.117 -2566.64 3.08476 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 408.331 -2595.12 3.11378 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 460.192 -2628.93 3.27811 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 503.088 -2648.17 3.47078 ]
+   nhpr [ 75 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 568.675 -2656.8 3.43952 ]
+   nhpr [ 75 0 0 ]
+  ]
+ ]
+ node "Buildings_innersidest-outerbarricade_8" [
+ ]
+ node "Buildings_innersidest-outerbarricade_10" [
+ ]
+ node "Buildings_innersidest-innerbarricade_11" [
+ ]
+ node "Buildings_innersidest-outerbarricade_12" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3197.02 1237.04 4.31003 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3253.25 1251.08 4.16681 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3305.49 1264.73 3.98833 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3375.13 1283.39 3.71054 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3452.33 1304.19 3.37455 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3513.33 1320.16 3.10914 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3553.22 1330.02 2.95116 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3621.85 1348.22 2.75999 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3657.22 1371.03 2.74726 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3699.34 1424.39 2.74726 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3731.71 1465.11 2.74726 ]
+   nhpr [ -90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3744.49 1496.76 2.74726 ]
+   nhpr [ -90 0 0 ]
+  ]
+ ]
+ node "Buildings_innersidest-outerbarricade_13" [
+ ]
+ node "Buildings_innersidest-innerbarricade_15" [
+ ]
+ node "Buildings_innersidest-outerbarricade_15" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2567.76 2593.76 0.95243 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2622.38 2615.96 0.695437 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2667.12 2633.55 0.378809 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2708.22 2649.13 0.0467364 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2756.17 2666.3 -0.340986 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2800.88 2680.56 -0.617617 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2873.71 2693.24 -0.365329 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2928.16 2685.44 0.687584 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2990.05 2657.33 1.17545 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3024.7 2633.58 1.36559 ]
+   nhpr [ -60 0 0 ]
+  ]
+ ]
+ node "Buildings_innersidest-outerbarricade_16" [
+ ]
+ node "Buildings_innersidest-innerbarricade_18" [
+ ]
+ node "Buildings_innersidest-outerbarricade_19" [
+ ]
+ node "Buildings_innersidest-outerbarricade_22" [
+ ]
+ node "Buildings_innersidest-outerbarricade_25" [
+ ]
+ node "Buildings_innersidest-outerbarricade_27" [
+ ]
+ node "Buildings_outersidest-outerbarricade_2" [
+ ]
+ node "Buildings_outersidest-outerbarricade_3" [
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3162.08 -3150.16 2.13345 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3162.23 -3224.16 2.15393 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3163.28 -3282.1 2.1843 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3164.73 -3322.15 2.2147 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3169.03 -3386.05 2.28381 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3179.58 -3456.31 2.39565 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3202.01 -3520.5 2.47903 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3239.69 -3546.88 2.41288 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3292.09 -3563.73 2.31256 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -3336.46 -3576.01 2.22833 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -3401.77 -3594.73 2.10721 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -3447.43 -3609.44 2.02548 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3518.29 -3634.06 1.90366 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3590.9 -3656.4 1.78388 ]
+   nhpr [ 15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -3621.6 -3662.9 1.73459 ]
+   nhpr [ 15 0 0 ]
+  ]
+ ]
+ node "Buildings_outersidest-innerbarricade_4" [
+ ]
+ node "Buildings_outersidest-outerbarricade_5" [
+ ]
+ node "Buildings_outersidest-innerbarricade_6" [
+ ]
+ node "Buildings_outersidest-outerbarricade_7" [
+ ]
+ node "Buildings_outersidest-outerbarricade_8" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 392.422 -1922.2 2.03382 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 442.287 -1925.5 2.08658 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 515.166 -1929.8 2.5934 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 591.877 -1936.8 3.6129 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 646.933 -1947.31 3.33636 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 704.705 -1959.64 2.94649 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 744.722 -1975.28 2.6326 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 786.392 -2028.98 2.33737 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 813.74 -2097.7 2.26233 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 829.324 -2140.96 2.18871 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 846.686 -2191.08 2.05334 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 864.554 -2247.27 1.90762 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 877.074 -2292.57 1.84614 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 890.319 -2356.23 1.94417 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 891.216 -2362.25 1.97033 ]
+   nhpr [ 180 0 0 ]
+  ]
+ ]
+ node "Buildings_outersidest-outerbarricade_10" [
+ ]
+ node "Buildings_outersidest-innerbarricade_11" [
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -5.84961 2780.8 3.98603 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -9.96144 2723.86 3.94422 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -13.5406 2668.92 3.884 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -16.339 2620.03 3.81474 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -18.4865 2576.02 3.7402 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -20.7949 2513.97 3.61577 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -21.7639 2472.06 3.51965 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -22.0234 2424.08 3.40306 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -19.2501 2344.16 3.21864 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -14.0914 2293.32 3.13348 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3.66322 2216.33 3.1434 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 25.6563 2170.42 3.29748 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 59.3006 2128.12 3.53443 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 113.481 2082.38 3.8038 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 120.124 2077.58 3.827 ]
+   nhpr [ -165 0 0 ]
+  ]
+ ]
+ node "Buildings_outersidest-outerbarricade_12" [
+ ]
+ node "Buildings_outersidest-outerbarricade_13" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3169.41 1296.19 4.27014 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3183.27 1348.41 4.07352 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3203.2 1421.7 3.60134 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3216.87 1469.7 3.24216 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3237.65 1539.68 2.95953 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3259.94 1596.4 2.9449 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3306.58 1585.27 2.9449 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3368.8 1555.52 2.9449 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3406.89 1535.44 2.9449 ]
+   nhpr [ -165 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3465.54 1502.37 2.9449 ]
+   nhpr [ -165 0 0 ]
+  ]
+ ]
+ node "Buildings_outersidest-innerbarricade_15" [
+ ]
+ node "Buildings_outersidest-outerbarricade_15" [
+ ]
+ node "Buildings_outersidest-outerbarricade_16" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2435.5 2599.68 1.50429 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2449.04 2661.15 1.78766 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2480.57 2733.59 1.72908 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2498.61 2777.03 1.6995 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2513.99 2816.19 1.67838 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2538.61 2887.13 1.66015 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2552.3 2940.38 1.67627 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2557.83 2984.04 1.72477 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2553.13 3038.78 1.85794 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2531.84 3087.34 2.08271 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2481.45 3142.84 2.47678 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2425.53 3186.7 2.75395 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2385.41 3209.1 2.81856 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2321.61 3235.56 2.85091 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2270.67 3253.73 2.86022 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2204.16 3275.63 2.86476 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2159.39 3289.67 2.86546 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2155.33 3290.92 2.86546 ]
+   nhpr [ 30 0 0 ]
+  ]
+ ]
+ node "Buildings_outersidest-innerbarricade_18" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2949.96 -1886.91 0.131906 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2874.01 -1887.72 -0.282636 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2809.14 -1890.15 -0.210859 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2755.28 -1893.1 0.0727191 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2692.43 -1897.3 0.587131 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2652.46 -1900.25 0.977654 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2576.6 -1905.87 1.71365 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2508.79 -1910.11 2.09265 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2432.3 -1918.3 1.95741 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2399.11 -1940.82 1.9188 ]
+   nhpr [ 30 0 0 ]
+  ]
+ ]
+ node "Buildings_outersidest-outerbarricade_19" [
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 187.914 3001.28 3.6438 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 203.022 3067.53 4.10279 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 216.475 3121.79 4.27318 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 233.78 3188.62 4.34799 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 251.703 3256.34 4.35902 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 267.968 3317.28 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 278.937 3357.8 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 296.874 3422.26 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 315.701 3486.58 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 336.825 3553.21 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 350.993 3593.74 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 366.725 3633.83 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 383.712 3670.13 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 412.331 3714.69 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 471.12 3752.64 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 539.056 3748.93 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 591.316 3735.2 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 622.546 3726.52 4.35903 ]
+   nhpr [ 30 0 0 ]
+  ]
+ ]
+ node "Buildings_outersidest-outerbarricade_22" [
+ ]
+ node "Buildings_outersidest-outerbarricade_25" [
+ ]
+ node "Buildings_outersidest-outerbarricade_27" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3273.05 -1727.57 1.55046 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3322.99 -1727.31 1.54531 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -3366.05 -1726.72 1.56653 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3435.06 -1725.36 1.6363 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3508.98 -1724.35 1.70903 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3579.01 -1725.01 1.71021 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3655.89 -1728.63 1.62676 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3716.59 -1734.47 1.52898 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -3791.74 -1746.35 1.39677 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3848.21 -1759.35 1.30365 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -3910.39 -1778.55 1.22042 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -3933.71 -1787.27 1.19709 ]
+   nhpr [ 45 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-0" [
+ ]
+ node "Buildings_inner-1" [
+ ]
+ node "Buildings_inner-2" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2984.83 -2979.06 1.95893 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2936.13 -2997.33 1.76373 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2861.54 -3011.67 1.63158 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2802.95 -3019.19 1.6053 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2735.31 -3026.01 1.62797 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2692.54 -3029.7 1.66406 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2646.76 -3033.28 1.71761 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2583.9 -3037.35 1.81861 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2508.92 -3040.91 1.96932 ]
+   nhpr [ 45 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-3" [
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2449.93 -3043.18 2.09151 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2404.02 -3044.72 2.18412 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2364.01 -3045.93 2.26162 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2300 -3047.61 2.37717 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2250.03 -3048.71 2.45832 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2205.06 -3049.54 2.52311 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2156.03 -3050.26 2.58319 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2109.97 -3050.74 2.62775 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2048.98 -3051.06 2.66514 ]
+   nhpr [ 45 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2008.02 -3051.04 2.67323 ]
+   nhpr [ 45 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-4" [
+ ]
+ node "Buildings_inner-5" [
+ ]
+ node "Buildings_inner-6" [
+ ]
+ node "Buildings_inner-7" [
+ ]
+ node "Buildings_inner-8" [
+ ]
+ node "Buildings_inner-9" [
+ ]
+ node "Buildings_inner-10" [
+ ]
+ node "Buildings_inner-11" [
+ ]
+ node "Buildings_inner-12" [
+ ]
+ node "Buildings_inner-13" [
+ ]
+ node "Buildings_inner-14" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 1712.97 -446.913 3.05521 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 1771.48 -454.372 3.10265 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 1813.17 -460.101 3.14773 ]
+   nhpr [ -15 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-15" [
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 1873.51 -468.66 3.22042 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 1918.05 -474.922 3.27282 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 1966.64 -481.423 3.32144 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2030.14 -488.945 3.35943 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2089.96 -494.513 3.35516 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2159.85 -498.484 3.28308 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2205.75 -499.282 3.18777 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2276.74 -497.228 2.95306 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2349.25 -482.464 5.37218 ]
+   nhpr [ -15 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-16" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2416.38 -460.288 11.1079 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2485.93 -429.526 23.0469 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2542.83 -391.203 36.7367 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2577.29 -366.301 43.5144 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2621.27 -333.989 50.7745 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2664.52 -300.465 56.4471 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2724.67 -247.96 61.5714 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2754.34 -218.195 63.3826 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2790.84 -175.842 65.7839 ]
+   nhpr [ -15 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-17" [
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2821.65 -132.733 64.7069 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2848.32 -95.2853 62.401 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2885.86 -38.8715 57.9955 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2905.13 -3.93166 54.8045 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2927.7 51.3204 49.2847 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2945.88 123.717 41.6154 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2958.69 199.212 33.5095 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2966.07 249.43 28.1663 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2973.84 302.579 22.5913 ]
+   nhpr [ -15 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-18" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2981.52 353.676 17.3256 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2990.85 418.837 11.4267 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2997.15 464.353 8.56145 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3004.6 530.819 5.63704 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3008.43 584.587 4.02484 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3010.65 660.59 2.73735 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3010.41 705.611 2.42013 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3008.89 760.563 2.33369 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3005.12 837.486 2.43541 ]
+   nhpr [ -15 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-19" [
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2999.95 903.311 2.60597 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2992.63 962.955 2.81292 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2976.48 1039.29 3.0949 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2942.41 1111.73 3.1682 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2891.86 1161.56 3.26317 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2850.38 1189.43 3.40053 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2792.63 1227.22 3.59767 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2740.64 1261.02 3.73591 ]
+   nhpr [ -15 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-20" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2703.35 1284.45 3.80599 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2667.5 1306.22 3.85349 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2615.73 1336.45 3.896 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2576.6 1358.54 3.91328 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2529.29 1384.54 3.92212 ]
+   nhpr [ -15 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2510.68 1394.59 3.9228 ]
+   nhpr [ -15 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-21" [
+ ]
+ node "Buildings_inner-22" [
+ ]
+ node "Buildings_inner-23" [
+ ]
+ node "Buildings_inner-24" [
+ ]
+ node "Buildings_inner-25" [
+ ]
+ node "Buildings_inner-26" [
+ ]
+ node "Buildings_inner-27" [
+ ]
+ node "Buildings_inner-28" [
+ ]
+ node "Buildings_inner-29" [
+ ]
+ node "Buildings_inner-30" [
+ ]
+ node "Buildings_inner-31" [
+ ]
+ node "Buildings_inner-32" [
+ ]
+ node "Buildings_inner-33" [
+ ]
+ node "Buildings_inner-34" [
+ ]
+ node "Buildings_inner-35" [
+ ]
+ node "Buildings_inner-36" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2077.78 814.819 3.53288 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2041.86 761.952 3.48882 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2011.66 717.218 3.43267 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -1982.68 674.051 3.36624 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -1953.21 629.905 3.28857 ]
+   nhpr [ -60 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-37" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1909.48 563.998 3.15847 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1868.75 502.156 3.02468 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1837.04 453.711 2.91381 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1803.24 401.823 2.7904 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1777.62 362.303 2.69376 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -1747.76 316.039 2.57825 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1711.02 258.846 2.43256 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -1680.35 210.87 2.30837 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -1647.04 158.513 2.17125 ]
+   nhpr [ -60 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-38" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -1622.95 120.507 2.07087 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1600.58 80.3651 1.98888 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -1584.37 23.7046 2.00713 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1577.32 -31.8261 2.12068 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -1588.86 -105.907 2.33634 ]
+   nhpr [ -60 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1602.35 -152.054 2.37396 ]
+   nhpr [ -60 0 0 ]
+  ]
+ ]
+ node "Buildings_inner-39" [
+ ]
+ node "Buildings_inner-40" [
+ ]
+ node "Buildings_inner-41" [
+ ]
+ node "Buildings_inner-42" [
+ ]
+ node "Buildings_inner-43" [
+ ]
+ node "Buildings_inner-44" [
+ ]
+ node "Buildings_outer-0" [
+ ]
+ node "Buildings_outer-1" [
+ ]
+ node "Buildings_outer-2" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2896.28 -3173.1 2.39807 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2854.45 -3176.7 2.46595 ]
+   nhpr [ 90 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-3" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2813.6 -3179.63 2.54521 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2760.76 -3182.94 2.65606 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2718.78 -3185.39 2.74635 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2638.81 -3189.85 2.91703 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2567.89 -3193.78 3.06329 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2496.92 -3197.77 3.20328 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2433.02 -3201.46 3.32355 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2361.06 -3205.74 3.45251 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2321.17 -3208.17 3.52114 ]
+   nhpr [ 90 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-4" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2254.29 -3212.32 3.63047 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2213.27 -3214.67 3.68342 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2140.39 -3217.73 3.71592 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2071.36 -3218.79 3.65136 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -2002.44 -3217.84 3.48515 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1934.53 -3214.93 3.22295 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -1892.64 -3212.2 3.01482 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -1851.78 -3208.89 2.77964 ]
+   nhpr [ 90 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1779.21 -3201.5 2.28854 ]
+   nhpr [ 90 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-5" [
+ ]
+ node "Buildings_outer-6" [
+ ]
+ node "Buildings_outer-7" [
+ ]
+ node "Buildings_outer-8" [
+ ]
+ node "Buildings_outer-9" [
+ ]
+ node "Buildings_outer-10" [
+ ]
+ node "Buildings_outer-11" [
+ ]
+ node "Buildings_outer-12" [
+ ]
+ node "Buildings_outer-13" [
+ ]
+ node "Buildings_outer-14" [
+ ]
+ node "Buildings_outer-15" [
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 1757.09 -608.714 1.18462 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 1823.11 -619.922 1.23649 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 1870.35 -627.997 1.38642 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 1933.42 -638.643 1.70668 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2012.39 -651.544 2.27106 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2090.77 -661.937 2.5717 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2157.42 -667.638 2.5729 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2226.44 -667.349 2.65501 ]
+   nhpr [ -180 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-16" [
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2273.14 -661.983 2.66026 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2330.69 -655.028 1.74365 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2388.18 -647.753 0.155799 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2450.65 -630.186 3.40431 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2486.46 -613.352 9.53927 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 2540.13 -584.456 20.4815 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2583.29 -560.544 28.5318 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2633.12 -532.139 36.5954 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2690.83 -495.186 44.753 ]
+   nhpr [ 180 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-17" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2723.81 -471.174 48.6783 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2775.87 -431.074 54.3742 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2833.55 -383.577 59.8005 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2868.32 -352.069 62.0544 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 2913.67 -305.663 63.5575 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 2960.98 -250.153 64.8446 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 2989.29 -210.244 64.7211 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3024.39 -149.796 62.1308 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3042.61 -111.023 59.1906 ]
+   nhpr [ -180 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-18" [
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3063.95 -57.4207 54.2879 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3082.79 -1.85584 48.7663 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3097.66 47.6475 43.7855 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3113.11 104.234 38.227 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3127.53 161.26 32.8937 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3141.9 222.316 27.51 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3150.55 264.207 23.8254 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3161.42 334.105 17.2689 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3166.51 377.693 13.0975 ]
+   nhpr [ 180 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-19" [
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3171.62 427.204 8.71791 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3176.62 483.9 4.55402 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ 3180.16 532.599 1.82908 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3183.14 586.462 -0.271506 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3185.4 660.432 -1.67664 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3185.55 715.471 -1.7477 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3184.15 775.532 -1.0913 ]
+   nhpr [ -180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3179.74 855.388 0.499251 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ 3174.56 916.14 1.85638 ]
+   nhpr [ -180 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-20" [
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ 3169.27 965.844 2.82914 ]
+   nhpr [ 180 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ 3159.55 1042.52 3.758 ]
+   nhpr [ -180 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-21" [
+ ]
+ node "Buildings_outer-22" [
+ ]
+ node "Buildings_outer-23" [
+ ]
+ node "Buildings_outer-24" [
+ ]
+ node "Buildings_outer-25" [
+ ]
+ node "Buildings_outer-26" [
+ ]
+ node "Buildings_outer-27" [
+ ]
+ node "Buildings_outer-28" [
+ ]
+ node "Buildings_outer-29" [
+ ]
+ node "Buildings_outer-30" [
+ ]
+ node "Buildings_outer-31" [
+ ]
+ node "Buildings_outer-32" [
+ ]
+ node "Buildings_outer-33" [
+ ]
+ node "Buildings_outer-34" [
+ ]
+ node "Buildings_outer-35" [
+ ]
+ node "Buildings_outer-36" [
+ ]
+ node "Buildings_outer-37" [
+ ]
+ node "Buildings_outer-38" [
+ ]
+ node "Buildings_outer-39" [
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -2175.84 663.895 2.67533 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2148.24 624.709 2.86775 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2102.79 558.924 3.06705 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -2074.04 516.764 3.14115 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -2033.77 457.193 3.19847 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -1993.09 396.58 3.21674 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1962.03 350.074 3.21152 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -1920.99 288.447 3.18666 ]
+   nhpr [ 120 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-40" [
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1891.12 243.474 3.15947 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -1857.44 194.971 3.09928 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1828.36 158.052 2.99008 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -1786.2 102.048 2.81179 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -1752.65 49.811 2.63266 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -1736.87 13.1594 2.52062 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_small_ur_DNARoot" [
+   code [ "prop_snow_tree_small_ur" ]
+   pos [ -1730.42 -50.5057 2.42191 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -1740.3 -94.4215 2.41279 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ur_DNARoot" [
+   code [ "prop_snow_tree_large_ur" ]
+   pos [ -1779.39 -157.293 2.44114 ]
+   nhpr [ 120 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-41" [
+  prop "prop_snow_tree_small_ul_DNARoot" [
+   code [ "prop_snow_tree_small_ul" ]
+   pos [ -1817.12 -186.909 2.45827 ]
+   nhpr [ 120 0 0 ]
+  ]
+  prop "prop_snow_tree_large_ul_DNARoot" [
+   code [ "prop_snow_tree_large_ul" ]
+   pos [ -1839.53 -198.11 2.46092 ]
+   nhpr [ 120 0 0 ]
+  ]
+ ]
+ node "Buildings_outer-42" [
+ ]
+ node "Buildings_outer-43" [
+ ]
+ node "Buildings_outer-44" [
+ ]
+ node "Buildings_outer-45" [
+ ]
+ node "Buildings_outer-46" [
+ ]
+]

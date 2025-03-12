@@ -1,0 +1,1432 @@
+group "toontownCentral" [
+ node "Buildings_inner-0" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 14.66 -4.00006 1.49012e-008 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 9.74997 -4 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 41.5 -4 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 7 -4 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 719.486 1165.49 -0.0487568 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 713.28 1221.12 -0.0350008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 702.324 1288.24 -0.0327682 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-2" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 686.214 1362.58 -0.0545648 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 669.021 1425.23 -0.100701 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 643.327 1497.91 -0.204906 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 622.591 1542.24 -0.308263 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 598.247 1582.45 -0.419889 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 570.144 1620.13 -0.52476 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 531.271 1664.86 -0.635068 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-3" [
+ ]
+ node "Buildings_inner-4" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -191.839 2516.64 0.195794 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -224.999 2545.46 0.16375 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -265.748 2579.46 0.110244 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -326.875 2627.8 0.00348796 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -362.105 2654.26 -0.0719963 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -396.977 2679.45 -0.15676 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -455.598 2719.48 -0.322245 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -504.253 2750.88 -0.412573 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -557.253 2784.82 -0.372829 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-5" [
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -591.774 2807 -0.305205 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -658.092 2849.75 -0.126971 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -705.205 2880.13 0.0248779 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -750.696 2909.16 0.189855 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -771.898 2922.51 0.273846 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-6" [
+ ]
+ node "Buildings_inner-7" [
+ ]
+ node "Buildings_inner-8" [
+ ]
+ node "Buildings_inner-9" [
+ ]
+ node "Buildings_inner-10" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1790.7 1925.77 0.441696 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -1853.28 1919.05 0.453752 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1894.14 1914.92 0.452256 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1954.88 1909.32 0.435856 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2001.69 1905.56 0.41111 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -2060 1900 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-11" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -2115 1880 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -2160 1850 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -2170 1800 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -2160 1735 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -2145 1680 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2125 1620 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2100 1565 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2082.34 1509.56 -0.414615 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-12" [
+ ]
+ node "Buildings_inner-13" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -1690.55 699.214 -0.64875 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -1661.26 633.457 -0.890193 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1628.06 567.215 -1.29569 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1595.07 511.151 -1.78488 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1553.88 453.413 -2.38943 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -1500.27 420.519 -0.526927 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1450.01 411.958 0.409469 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1397.05 409.061 0.898553 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-14" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1335.98 408.991 1.17393 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -1286.49 410.407 1.26156 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 13.0001 -4.00004 -7.45058e-009 ]
+   nhpr [ 90 0 0 ] 
+   scale [ 3 2 1.5 ] 
+  ]
+ ]
+ node "Buildings_inner-15" [
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 6.10352e-005 -3.99995 5.96046e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ] 
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 5.99988 -3.99998 -1.78814e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 9 -4 5.96046e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-16" [
+ ]
+ node "Buildings_inner-17" [
+ ]
+ node "Buildings_inner-18" [
+ ]
+ node "Buildings_inner-19" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 4.99979 -4 5.21541e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-20" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 386.692 -382.632 -0.506432 ]
+   nhpr [ -105 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 397.91 -424.193 -0.503479 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 409.198 -478.918 -0.0225189 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 426.016 -555.062 -0.0180648 ]
+   nhpr [ -105 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-21" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 434.277 -596.338 -0.0159392 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 443.628 -646.494 -0.0136062 ]
+   nhpr [ -105 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 452.162 -695.744 -0.0115604 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 462.068 -756.002 -0.00935965 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 471.719 -821.37 -0.0073072 ]
+   nhpr [ -105 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 480.47 -885.763 -0.00559512 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 489.042 -954.214 -0.0040799 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 496.293 -1016.86 -0.00294364 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 507.022 -1078.74 -0.00205196 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-22" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 512.051 -1128.54 -0.00146441 ]
+   nhpr [ -105 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 516.797 -1178.29 -0.000998248 ]
+   nhpr [ -105 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 520.758 -1222.1 -0.000688071 ]
+   nhpr [ -105 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 524.523 -1264.89 -0.000557448 ]
+   nhpr [ -105 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 531.941 -1333.86 -0.000426185 ]
+   nhpr [ -105 5.32552e-013 -2.64242e-013 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 535.449 -1373.75 -0.000365766 ]
+   nhpr [ -105 5.32552e-013 -2.64242e-013 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 541.854 -1446.55 -0.000264272 ]
+   nhpr [ -105 5.32552e-013 -2.64242e-013 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 545.623 -1489.39 -0.000207815 ]
+   nhpr [ -105 5.32552e-013 -2.64242e-013 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 549.649 -1535.14 -0.000149269 ]
+   nhpr [ -105 5.32552e-013 -2.64242e-013 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 552.276 -1564.98 -0.000111851 ]
+   nhpr [ -105 5.32552e-013 -2.64242e-013 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-23" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 5.0907 8.60522 7.99424e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -3.19385 8.63684 2.63215e-007 ]
+   nhpr [ 90 6.00857e-013 -2.58714e-013 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1.9996 -3.99969 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 27.9998 -3.99999 1.19231e-007 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-24" [
+ ]
+ node "Buildings_inner-25" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 727.17 -5729.38 0.188232 ]
+   nhpr [ -15 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 2.36808 6.13086 0.282349 ]
+   nhpr [ -15 -7.1006e-022 2.5877e-022 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 4.00049 -3.99976 -1.78814e-007 ]
+   nhpr [ -1.77093e-007 1.13595e-022 9.39038e-022 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-26" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 8.99988 -3.99927 5.96046e-008 ]
+   nhpr [ 1.69462e-007 -1.55668e-022 4.92771e-022 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-27" [
+ ]
+ node "Buildings_inner-28" [
+ ]
+ node "Buildings_inner-29" [
+ ]
+ node "Buildings_inner-30" [
+ ]
+ node "Buildings_inner-31" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 5.99988 -3.99994 -1.93715e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2.99982 -3.99963 1.49012e-007 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 5.00061 -3.99988 8.9407e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -10.0002 20 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 27.9999 -3.99997 1.18278e-007 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-32" [
+ ]
+ node "Buildings_inner-33" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 13.0001 -4.00005 1.86265e-007 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-34" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 4.00027 -3.99998 -1.78814e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 6.10352e-005 -3.99995 5.96046e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 5.99988 -3.99998 -1.78814e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 9 -4 5.96046e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_inner-35" [
+ ]
+ node "Buildings_inner-36" [
+ ]
+ node "Buildings_outer-0" [
+ ]
+ node "Buildings_outer-1" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 870.045 1218.05 -0.0832265 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 861.299 1269.31 -0.0624226 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-2" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 853.422 1309.62 -0.049029 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 843.023 1357.59 -0.0377868 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 825.13 1430.35 -0.0347611 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 807.028 1493.83 -0.054452 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 791.521 1540.4 -0.0936037 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 775.746 1579.25 -0.161854 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 749.119 1623.89 -0.294088 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 724.76 1658.11 -0.376375 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 698.917 1693.81 -0.444189 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 655.63 1753.81 -0.535684 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-3" [
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 649.676 1762.11 -0.546877 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-4" [
+ ]
+ node "Buildings_outer-5" [
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -50.7009 2602.94 -0.260988 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -108.572 2658.16 -0.164448 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -160.527 2701.89 -0.0598456 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -217.644 2745.61 0.0415737 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -251.742 2770.18 0.0883385 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -315.972 2814.35 0.142303 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -374.468 2852.93 0.151184 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -426.597 2886.47 0.127714 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-6" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -468.892 2913.27 0.0881558 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -521.397 2946.19 0.0162734 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -567.343 2974.62 -0.0478355 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -605.643 2998.14 -0.0945517 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -670.412 3037.78 -0.164855 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -690.439 3050.01 -0.18512 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-7" [
+ ]
+ node "Buildings_outer-8" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 5.99988 -3.99994 -1.93715e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2.99982 -3.99963 1.49012e-007 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 5.00061 -3.99988 8.9407e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 10.0001 20.0002 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -10.0002 20 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 28.0002 -4.00018 1.49012e-007 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -3.00037 -3.99969 0 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-9" [
+ ]
+ node "Buildings_outer-10" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 13 -4.00032 -5.66244e-007 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 15 -4 2.64496e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-11" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 4.00027 -3.99998 -1.78814e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 6.10352e-005 -3.99995 5.96046e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 5.99988 -3.99998 -1.78814e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 9 -4 5.96046e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1718.23 2078.21 0.0815465 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1768.96 2073.32 0.146799 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-12" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -1815 2075 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1885 2070 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1960 2060 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -2015 2060 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2080 2045 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2135 2030 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -2185 2005 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -2225 1985 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -2270 1955 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-13" [
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -2310.75 1919.31 0.306026 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -2350.1 1880.81 0.201908 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2352.91 1811.84 0.0330547 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2339.39 1749.28 -0.110383 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -2317.82 1675.38 -0.269354 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2291.43 1602.08 -0.407792 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -2275.51 1563.22 -0.472216 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -2252.5 1512.06 -0.546931 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2232.69 1471.68 -0.597406 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-14" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -2207.26 1423.78 -0.647088 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-15" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1822.01 639.453 -0.739239 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -1793.95 588.599 -0.84443 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1769.29 545.104 -0.924693 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1728.17 477.644 -0.976301 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1683.47 413.762 -0.863286 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1638.5 360.157 -0.549261 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1605.15 327.041 -0.188649 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -1551.87 284.795 0.595546 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-16" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1495.32 268.22 1.10682 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -1445.41 266.483 1.22438 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -1393.36 266.009 1.30767 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1316.39 266.575 1.40034 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -1299.78 266.983 1.41743 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 0 10 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-17" [
+ ]
+ node "Buildings_outer-18" [
+ ]
+ node "Buildings_outer-19" [
+ ]
+ node "Buildings_outer-20" [
+ ]
+ node "Buildings_outer-21" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ -2.99982 -3.99963 1.49012e-007 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 5.00061 -3.99988 8.9407e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 10.0001 20.0002 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -10.0002 20 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1.9996 -3.99969 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 27.9998 -4.00003 1.37836e-007 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -3.00037 -3.99969 0 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-22" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 217.436 -389.47 -0.030323 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 231.987 -440.338 -0.0270749 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 245.761 -492.463 -0.0239415 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 263.084 -564.379 -0.0200319 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-23" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 277.608 -630.881 -0.0168401 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 291.684 -701.472 -0.0138638 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 300.415 -748.671 -0.0120912 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 309.501 -800.858 -0.0103183 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 317.743 -851.184 -0.00878237 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 324.929 -897.597 -0.00750729 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 333.729 -958.007 -0.00603768 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 343.639 -1031.32 -0.00452233 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 350.606 -1094.77 -0.00343071 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-24" [
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 359.717 -1173.33 -0.00234041 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 367.052 -1241.86 -0.00160871 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 371.794 -1304.69 -0.00123734 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 374.596 -1357.57 -0.00105278 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 376.895 -1403.47 -0.000905964 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 380.291 -1473.36 -0.000692637 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 383.197 -1534.38 -0.000511986 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 394.939 -1568.12 -0.00041356 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-25" [
+ ]
+ node "Buildings_outer-26" [
+ ]
+ node "Buildings_outer-27" [
+ ]
+ node "Buildings_outer-28" [
+ ]
+ node "Buildings_outer-29" [
+ ]
+ node "Buildings_outer-30" [
+ ]
+ node "Buildings_outer-31" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 4.99979 -4 5.21541e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-32" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ -10.0002 20 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ -1.9996 -3.99969 0 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 8.99957 -3.99969 0 ]
+   nhpr [ 180 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 27.9998 -3.99995 1.19209e-007 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ -3.00037 -3.99969 0 ]
+   nhpr [ 90 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-33" [
+ ]
+ node "Buildings_outer-34" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 13 -4.00007 -7.45058e-009 ]
+   nhpr [ 90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-35" [
+  prop "prop_tree_small_ul_DNARoot" [
+   code [ "prop_tree_small_ul" ]
+   pos [ 4.00027 -3.99998 -1.78814e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_small_ur_DNARoot" [
+   code [ "prop_tree_small_ur" ]
+   pos [ 6.10352e-005 -3.99995 5.96046e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 2.5 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 5.99988 -3.99998 -1.78814e-007 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+  prop "prop_tree_large_ur_DNARoot" [
+   code [ "prop_tree_large_ur" ]
+   pos [ 9 -4 5.96046e-008 ]
+   nhpr [ 0 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-36" [
+  prop "prop_tree_large_ul_DNARoot" [
+   code [ "prop_tree_large_ul" ]
+   pos [ 0 10 0 ]
+   nhpr [ -90 0 0 ]
+   scale [ 3 2 1.5 ]
+  ]
+ ]
+ node "Buildings_outer-37" [
+ ]
+ node "Buildings_outer-38" [
+ ]
+ node "Buildings_outer-39" [
+ ]
+]

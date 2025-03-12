@@ -1,0 +1,356 @@
+hood_model "phase_3.5/models/modules/TT_A1" [
+	store_node [ "toon_landmark" "toon_landmark_TT_A1" "TT_A1"  ]
+	]
+
+hood_model "phase_14/models/modules/hqCZ" [
+	store_node [ "toon_landmark" "toon_landmark_hqCZ" "" ]
+	]
+
+hood_model "phase_6/models/modules/CZ_doors_practical" [
+// hood_model "phase_6/models/modules/CZ_doors" [
+	store_node [ "door_double" "door_double_wood_ur"  ]
+	store_node [ "door_double" "door_double_wood_ul"  ]
+	]
+
+hood_model "phase_3.5/models/props/HQ_telescope-mod" [
+	store_node [ "prop" "animated_prop_HQTelescopeAnimatedProp" "telescope" ]
+	]
+	
+hood_model "phase_3.5/models/props/HQ_periscope-mod" [
+	store_node [ "prop" "animated_prop_HQPeriscopeAnimatedProp" "periscope" ]
+	]
+
+hood_model "phase_14/models/props/wellA" [
+	store_node [ "prop" "prop_wellA_CZ" "" ]
+        ]
+
+hood_model "phase_14/models/props/table1" [
+	store_node [ "prop" "prop_table1_CZ" "" ]
+        ]
+
+hood_model "phase_14/models/props/crate" [
+	store_node [ "prop" "prop_crate_CZ" "" ]
+        ]
+
+hood_model "phase_14/models/props/shanty_gypsywagon_exterior" [
+	store_node [ "prop" "prop_shanty_gypsywagon_exterior_CZ" "" ]
+        ]
+
+hood_model "phase_14/models/props/hammer_high" [
+	store_node [ "prop" "prop_hammer_high_CZ" "" ]
+        ]
+
+hood_model "phase_14/models/props/sack_18stack" [
+	store_node [ "prop" "prop_sack_18stack_CZ" "" ]
+        ]
+
+hood_model "phase_14/models/props/wheelbarrow" [
+	store_node [ "prop" "prop_wheelbarrow_CZ" "" ]
+        ]
+
+hood_model "phase_14/models/props/crateinv" [
+	store_node [ "prop" "prop_crateinv_CZ" "" ]
+        ]
+
+hood_model "phase_14/models/props/Log_stack_a" [
+	store_node [ "prop" "prop_Log_stack_a" "" ]
+	]
+
+hood_model "phase_14/models/props/rock_2_floor" [
+	store_node [ "prop" "prop_rock_2_floor" "" ]
+	]
+
+hood_model "phase_14/models/props/dirt_ramp" [
+	store_node [ "prop" "prop_dirt_ramp_CZ" "" ]
+	]
+
+hood_model "phase_14/models/props/Elevator" [
+	store_node [ "prop" "prop_Elevator" "" ]
+	]
+
+hood_model "phase_5/models/props/tire" [
+	store_node [ "prop" "prop_tire" "tire" ]
+	]
+
+hood_model "phase_14/models/props/trellisB" [
+	store_node [ "prop" "prop_trellisB" "" ]
+	]
+
+hood_model "phase_3.5/models/props/trees" [
+	store_node [ "holiday_prop" "prop_tree_large_brickbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_large_brickbox_ul" ]
+	store_node [ "holiday_prop" "prop_tree_small_brickbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_small_brickbox_ul" ]
+	store_node [ "holiday_prop" "prop_tree_fat_brickbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_fat_brickbox_ul" ]
+
+	store_node [ "holiday_prop" "prop_tree_large_woodbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_large_woodbox_ul" ]
+	store_node [ "holiday_prop" "prop_tree_small_woodbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_small_woodbox_ul" ]
+
+	store_node [ "holiday_prop" "prop_tree_large_ur" "prop_tree_large_no_box_ur" ]
+	store_node [ "holiday_prop" "prop_tree_large_ul" "prop_tree_large_no_box_ul" ]
+	store_node [ "holiday_prop" "prop_tree_small_ur" "prop_tree_small_nobox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_small_ul" "prop_tree_small_no_box_ul" ]
+	store_node [ "holiday_prop" "prop_tree_fat_ur" "prop_tree_fat_no_box_ur" ]
+	store_node [ "holiday_prop" "prop_tree_fat_ul" "prop_tree_fat_no_box_ul" ]
+	]
+    
+store_texture [ "texture" "street_street_TT_tex"	
+		"phase_14/maps/CZ_Street.jpg"		]
+store_texture [ "texture" "street_sidewalk_TT_tex"
+		"phase_14/maps/CZ_Sidewalk.jpg"	]
+store_texture [ "texture" "street_curb_TT_tex"
+		"phase_14/maps/CZ_Curb.jpg"	]
+
+store_font [ "font" "TT_Comedy"
+             "phase_3/models/fonts/Comedy" ]
+
+hood_model "phase_4/models/props/signs_TTC" [
+	store_node [ "sign" "TTC_sign1" ]
+	store_node [ "sign" "TTC_sign2" ]
+	store_node [ "sign" "TTC_sign3" ]
+	]
+
+hood_model "phase_3.5/models/props/streetlight_TT" [
+	store_node [ "holiday_prop" "prop_post_sign" ]
+	store_node [ "holiday_prop" "prop_post_one_light" ]
+	store_node [ "holiday_prop" "prop_post_three_light" ]
+	]
+
+hood_model "phase_3.5/models/modules/wood_fence" [
+	store_node [ "prop" "prop_wood_fence" "" ]
+	]
+
+hood_model "phase_3.5/models/props/big_planter" [
+	store_node [ "prop" "prop_big_planter" "" ]
+        ]
+
+hood_model "phase_4/models/props/toontown_central_fountain" [
+	store_node [ "prop" "prop_toontown_central_fountain" "" ]
+        ]
+
+hood_model "phase_4/models/props/mickey_on_horse" [
+	store_node [ "prop" "prop_mickey_on_horse" "" ]
+        ]
+
+hood_model "phase_4/models/props/goofy_statue" [
+	store_node [ "prop" "prop_goofy_statue" "" ]
+        ]
+
+hood_model "phase_8/models/props/dirt_pile_full" [
+	store_node [ "prop" "prop_dirt_pile_full" "" ]
+	]
+
+hood_model "phase_6/models/modules/MM_A1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_A1" "MM_A1"  ]
+	]
+hood_model "phase_6/models/modules/MM_A2" [
+	store_node [ "toon_landmark" "toon_landmark_MM_A2" "MM_A2"  ]
+	]
+hood_model "phase_6/models/modules/MM_B1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_B1" "MM_B1"  ]
+	]
+hood_model "phase_6/models/modules/MM_B2" [
+	store_node [ "toon_landmark" "toon_landmark_MM_B2" "MM_B2"  ]
+	]
+hood_model "phase_6/models/modules/MM_C1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_C1" "MM_C1"  ]
+	]
+hood_model "phase_6/models/modules/MM_D1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_D1" "MM_D1"  ]
+	]
+hood_model "phase_6/models/modules/MM_E1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_E1" "MM_E1"  ]
+	]
+
+hood_model "phase_6/models/props/streetlight_MM" [
+	store_node [ "holiday_prop" "prop_MM_flute_lamp" "MM_flute_lamp" ]
+	store_node [ "holiday_prop" "prop_MM_trumpets_lamp" "MM_trumpets_lamp" ]
+	]
+
+hood_model "phase_6/models/modules/MM_windows" [
+	store_node [ "window" "window_MM_sm_curved_ur" "window_sm_curved_ur" ]
+	store_node [ "window" "window_MM_sm_curved_ul" "window_sm_curved_ul" ]
+
+	store_node [ "window" "window_MM_sm_round_ur" "window_sm_round_ur" ]
+	store_node [ "window" "window_MM_sm_round_ul" "window_sm_round_ul" ]
+	]
+
+
+store_font [ "font" "MM_Musicals"
+             "phase_3/models/fonts/Musicals" ]
+
+hood_model "phase_6/models/props/signs_MM" [
+	store_node [ "sign" "MM_sign1" ]
+	store_node [ "sign" "MM_sign2" ]
+	store_node [ "sign" "MM_sign3" ]
+	store_node [ "sign" "MM_sign4" ]
+	]
+
+hood_model "phase_5/models/props/awnings_round" [
+	store_node [ "prop" "prop_awning_large_pinkblue" ]
+	store_node [ "prop" "prop_awning_large_purple"   ]
+	store_node [ "prop" "prop_awning_small_pinkblue" ]
+	store_node [ "prop" "prop_awning_small_purple"   ]
+	]
+
+hood_model "phase_5/models/props/awnings_square" [
+	store_node [ "prop" "prop_keyboard_small" ]
+	store_node [ "prop" "prop_keyboard_large" ]
+	]
+
+hood_model "phase_6/models/props/minnie_planter" [
+	store_node [ "prop" "prop_minnie_planter" "" ]
+	]
+
+hood_model "phase_6/models/props/minnie_planter2" [
+	store_node [ "prop" "prop_minnie_planter2" "" ]
+	]
+
+hood_model "phase_6/models/props/minnie_planter3" [
+	store_node [ "prop" "prop_minnie_planter3" "" ]
+	]
+
+hood_model "phase_6/models/props/MM_flats" [
+	store_node [ "prop" "prop_drums_flat" "drums" ]
+	store_node [ "prop" "prop_cello_flat" "cello" ]
+	store_node [ "prop" "prop_trumpet_flat" "trumpet" ]
+	]
+
+hood_model "phase_6/models/props/trashcan_MM" [
+	store_node [ "prop" "prop_trashcan_MM" "" ]
+	]
+
+
+hood_model "phase_6/models/props/mailbox_MM" [
+	store_node [ "prop" "prop_mailbox_MM" "" ]
+	]
+
+
+hood_model "phase_6/models/props/trees_MM" [
+	store_node [ "holiday_prop" "prop_tree_small_ur_MM" "prop_tree_small_ur" ]
+	store_node [ "holiday_prop" "prop_tree_small_ul_MM" "prop_tree_small_ul" ]
+	]
+
+
+hood_model "phase_5/models/props/chimneys" [
+	store_node [ "prop" "prop_chimney" ]
+	store_node [ "prop" "prop_stovepipe" ]
+	store_node [ "prop" "prop_smokestack" ]
+	]
+
+hood_model "phase_5/models/props/roof_access" [
+	store_node [ "prop" "prop_roof_access" "" ]
+	]
+
+hood_model "phase_3.5/models/props/HQ_periscope-mod" [
+	store_node [ "prop" "animated_prop_HQPeriscopeAnimatedProp" "periscope" ]
+	]
+
+hood_model "phase_6/models/modules/DD_doors_practical" [
+// hood_model "phase_6/models/modules/DD_doors" [
+	store_node [ "door_double" "door_double_wood_ur"  ]
+	store_node [ "door_double" "door_double_wood_ul"  ]
+	]
+
+hood_model "phase_6/models/modules/DD_A1" [
+	store_node [ "toon_landmark" "toon_landmark_DD_A1" "DD_A1"  ]
+	]
+hood_model "phase_6/models/modules/DD_A2" [
+	store_node [ "toon_landmark" "toon_landmark_DD_A2" "DD_A2"  ]
+	]
+hood_model "phase_6/models/modules/DD_B1" [
+	store_node [ "toon_landmark" "toon_landmark_DD_B1" "DD_B1"  ]
+	]
+hood_model "phase_6/models/modules/DD_B2" [
+	store_node [ "toon_landmark" "toon_landmark_DD_B2" "DD_B2"  ]
+	]
+hood_model "phase_6/models/modules/DD_C1" [
+	store_node [ "toon_landmark" "toon_landmark_DD_C1" "DD_C1"  ]
+	]
+hood_model "phase_6/models/modules/DD_D1" [
+	store_node [ "toon_landmark" "toon_landmark_DD_D1" "DD_D1"  ]
+	]
+
+hood_model "phase_6/models/props/palm_tree_topflat" [
+	store_node [ "holiday_prop" "prop_palm_tree_topflat" ]
+	]
+
+hood_model "phase_6/models/props/dockpilings" [
+	store_node [ "prop" "prop_2ftdockpiling" ]
+	store_node [ "prop" "prop_3ftdockpiling" ]
+	store_node [ "prop" "prop_4ftdockpiling" ]
+	]
+
+store_font [ "font" "TT_Comedy" "phase_3/models/fonts/Comedy" ]
+
+
+hood_model "phase_6/models/props/signs_DD" [
+	store_node [ "sign" "DD_sign1" ]
+	store_node [ "sign" "DD_sign2" ]
+	store_node [ "sign" "DD_sign3" ]
+	]
+
+hood_model "phase_6/models/props/small_round_barrel" [
+	store_node [ "prop" "DD_barrel" "" ]
+	]
+
+
+store_font [ "font" "DD_Portago"
+             "phase_3/models/fonts/Portago" ]
+
+hood_model "phase_6/models/props/streetlight_DD" [
+	store_node [ "holiday_prop" "streetlight_DD_left" ]
+	store_node [ "holiday_prop" "streetlight_DD_right" ]
+	]
+
+hood_model "phase_5/models/props/ladder2" [
+        store_node [ "prop" "prop_ladder_CZ" "" ]
+        ]
+
+hood_model "phase_8/models/props/dirt_pile_full" [
+	store_node [ "prop" "prop_dirt_pile_full" "" ]
+	]
+
+hood_model "phase_6/models/karting/cone" [
+	store_node [ "prop" "gs_cone" "" ]
+	]
+
+
+hood_model "phase_5/models/props/chimneys" [
+	store_node [ "prop" "prop_chimney" ]
+	store_node [ "prop" "prop_stovepipe" ]
+	store_node [ "prop" "prop_smokestack" ]
+	]
+
+
+hood_model "phase_3.5/models/props/trees" [
+	store_node [ "holiday_prop" "prop_tree_large_brickbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_large_brickbox_ul" ]
+	store_node [ "holiday_prop" "prop_tree_small_brickbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_small_brickbox_ul" ]
+	store_node [ "holiday_prop" "prop_tree_fat_brickbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_fat_brickbox_ul" ]
+
+	store_node [ "holiday_prop" "prop_tree_large_woodbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_large_woodbox_ul" ]
+	store_node [ "holiday_prop" "prop_tree_small_woodbox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_small_woodbox_ul" ]
+
+	store_node [ "holiday_prop" "prop_tree_large_ur" "prop_tree_large_no_box_ur" ]
+	store_node [ "holiday_prop" "prop_tree_large_ul" "prop_tree_large_no_box_ul" ]
+	store_node [ "holiday_prop" "prop_tree_small_ur" "prop_tree_small_nobox_ur" ]
+	store_node [ "holiday_prop" "prop_tree_small_ul" "prop_tree_small_no_box_ul" ]
+	store_node [ "holiday_prop" "prop_tree_fat_ur" "prop_tree_fat_no_box_ur" ]
+	store_node [ "holiday_prop" "prop_tree_fat_ul" "prop_tree_fat_no_box_ul" ]
+	]
+
+hood_model "phase_8/models/props/signs_DL" [
+	store_node [ "sign" "DL_sign1" ]
+	store_node [ "sign" "DL_sign2" ]
+	store_node [ "sign" "DL_sign3" ]
+	store_node [ "sign" "DL_sign4" ]
+	]
+

@@ -1,0 +1,2403 @@
+group "constructionZone" [
+ visgroup "21000:safe_zone" [
+  vis [   "21000:safe_zone"   ]
+  group "fishing_pond_1" [
+   prop "npc_fisherman_origin_0" [
+    code [ "DCS" ]
+    pos [ -255.0 56.6657 3.07 ]
+    nhpr [ 15 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -228.503 130.564 -10.14 ]
+    nhpr [ 94.2 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -228.0 115.373 -10.2 ]
+    nhpr [ 85.35 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -249.988 98.8567 -10.48 ]
+    nhpr [ -8 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -265.772 101.3466 -10.4374 ]
+    nhpr [ -20 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -230.503 140.564 -10.14 ]
+    nhpr [ 94.2 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -240.0 120.373 -8.6 ]
+    nhpr [ 82 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -245.438 108.539 -9.6 ]
+    nhpr [ 51.2 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -259.5 100.65 -7.5 ]
+    nhpr [ 0 0 0 ]
+   ]
+   prop "fishing_spot_DNARoot" [
+    code [ "fishing_spot" ]
+    pos [ -270.2 99.996 -5.85 ]
+    nhpr [ -8 0 0 ]
+   ]
+  ]
+  group "props" [
+  ]
+  group "buildings" [
+   prop "linktunnel_cz_21132_DNARoot" [
+    code [ "prop_safe_zone_tunnel" ]
+    pos [ -12.727 330.0361 8.516 ]
+    nhpr [ 180 0 0 ]
+    sign [
+     code [ "tunnel_sign_green" ]
+     pos [ 0 0 -1.7 ]
+     scale [ 1.5 1 1.5 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0 1 ]
+      pos [ 0 0 -1.16 ]
+      scale [ 1.5 1 1.5 ]
+      width [ 47.4001 ]
+      height [ 47.4001 ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "V" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "M" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "H" ]
+      ]
+     ]
+     baseline [
+      pos [ 0 0 1.5 ]
+      scale [ 2.5 1 2.5 ]
+      graphic [
+       code [ "mickeySZ" ]
+      ]
+     ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ 0 0 -2.03 ]
+      scale [ 0.8 1 0.8 ]
+      width [ 39.6338 ]
+      height [ 39.6338 ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "Z" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+     ]   
+    ]
+   ]
+   prop "prop_trolley_station_DNARoot" [
+    code [ "prop_trolley_station" ]
+    pos [ -220 -65 0.89 ]
+    nhpr [ 110 0 0 ]
+    sign [
+     color [ 0.25 0.25 0.25 1 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 1 0.737255 0.501961 1 ]
+      pos [ 0.5 0 1.33 ]
+      scale [ 1.4 1 1.4 ]
+      kern [ -0.09 ]
+      width [ 11.1111 ]
+      height [ 11.1111 ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "Y" ]
+      ]
+     ]
+     baseline [
+      code [ "mickey" ]
+      color [ 1 0 0 1 ]
+      pos [ 0.29 0 -1.9 ]
+      scale [ 2.7 1 2.7 ]
+      kern [ -0.22 ]
+      text [
+       letters [ "G" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "M" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+     ]
+    ]
+   ]
+   prop "linktunnel_cz_21201_DNARoot" [
+    code [ "prop_safe_zone_tunnel" ]
+    pos [ -294.062 -135.5011 -6.96 ]
+    nhpr [ 330 0 0 ]
+    sign [
+     code [ "tunnel_sign_green" ]
+     pos [ 0 0 -1.7 ]
+     scale [ 1.5 1 1.5 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0 1 ]
+      pos [ 0 0 -1.16 ]
+      scale [ 1.1 1 1.5 ]
+      width [ 47.4001 ]
+      height [ 47.4001 ]
+      text [
+       letters [ "B" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "D" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "K" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "B" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+     text [
+       letters [ "V" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "D" ]
+      ]
+     ]
+     baseline [
+      pos [ 0 0 1.5 ]
+      scale [ 2.5 1 2.5 ]
+      graphic [
+       code [ "mickeySZ" ]
+      ]
+     ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ 0 0 -2.03 ]
+      scale [ 0.8 1 0.8 ]
+      width [ 39.6338 ]
+      height [ 39.6338 ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "Z" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+     ]
+    ]
+   ]
+   prop "linktunnel_cz_21301_DNARoot" [
+    code [ "prop_safe_zone_tunnel" ]
+    pos [ 130.54974 317.558 10.5 ]
+    nhpr [ 160 0 0 ]
+    sign [
+     code [ "tunnel_sign_green" ]
+     pos [ 0 0 -1.7 ]
+     scale [ 1.5 1 1.5 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0 1 ]
+      pos [ 0 0 -1.16 ]
+      scale [ 1.4 1 1.5 ]
+      width [ 47.4001 ]
+      height [ 47.4001 ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "W" ]
+      ]
+      text [
+       letters [ "M" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+     ]
+     baseline [
+      pos [ 0 0 1.5 ]
+      scale [ 2.5 1 2.5 ]
+      graphic [
+       code [ "mickeySZ" ]
+      ]
+     ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ 0 0 -2.03 ]
+      scale [ 0.8 1 0.8 ]
+      width [ 39.6338 ]
+      height [ 39.6338 ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "Z" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+     ]
+    ]
+   ]
+   landmark_building "sz8:toon_landmark_DD_clothes_shop_DNARoot" [
+    code [ "toon_landmark_DD_clothes_shop" ]
+    building_type [ "clotheshop" ]
+    title [ "Clothing Shop" ]
+    pos [ 7.413 -105.77 40.5 ]
+    nhpr [ 300 0 0 ]
+    sign [
+     pos [ 0 0 -0.5 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0.701961 0 0 1 ]
+      scale [ 1.5 1 1.5 ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "l" ]
+      ]
+      text [
+       letters [ "o" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ "h" ]
+      ]
+      text [
+       letters [ "i" ]
+      ]
+      text [
+       letters [ "n" ]
+      ]
+      text [
+       letters [ "g" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "h" ]
+      ]
+      text [
+       letters [ "o" ]
+      ]
+      text [
+       letters [ "p" ]
+      ]
+     ]
+    ]
+    door [
+     code [ "door_double_clothesshop_ur" ]
+     color [ 0.91 0.34 0.34 1 ]
+    ]
+   ]
+   landmark_building "sz6:toon_landmark_CZ_gag_shop_DNARoot" [
+    code [ "toon_landmark_CZ_gag_shop" ]
+    building_type [ "gagshop" ]
+    title [ "Gag Shop" ]
+    pos [ -233.961 -13.913 0.15 ]
+    nhpr [ -70 0 0 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   landmark_building "sz22:toon_landmark_DD_pet_shop_DNARoot" [
+    code [ "toon_landmark_DD_pet_shop" ]
+    building_type [ "petshop" ]
+    title [ "Pet Shop" ]
+    pos [ 101.30 24.298 88.525 ]
+    nhpr [ 0 0 0 ]
+    door [
+     code [ "door_double_round_ur" ]
+     color [ 1 0.87 0.38 1 ]
+    ]
+    prop "animated_prop_PetShopFishAnimatedProp_DNARoot" [
+     code [ "animated_prop_PetShopFishAnimatedProp" ]
+     pos [ 0 0 0 ]
+     nhpr [ 0 0 0 ]
+    ]
+    sign [
+     baseline [
+      code [ "mickey" ]
+      color [ 1 1 0 1 ]
+      pos [ -0.0715486 0 0.575594 ]
+      scale [ 1.58014 1 2.42354 ]
+      width [ 14.2363 ]
+      height [ 14.2363 ]
+      flags [ "d" ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "H" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "P" ]
+      ]
+     ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ 100.9 260.887 13.9 ]
+    nhpr [ 97 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ 99 241.887 13.9 ]
+    nhpr [ 85 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ 79.14 243.67 13.9 ]
+    nhpr [ -5 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ 60.14 245.27 15.9 ]
+    nhpr [ -5 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -157.14 -184.27 0.5 ]
+    nhpr [ 85 0 -0 ]
+    width [ 25 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -166.05 -108.69 0 ]
+    nhpr [ 140 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -151.34 -122.03 0.02 ]
+    nhpr [ 138 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -153.1 -142.0 0.08 ]
+    nhpr [ 85 0 -0]
+    width [ 20.1 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -154.85 -161.1 0.16 ]
+    nhpr [ 85 0 -0]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -143.48 -194.69 0.7 ]
+    nhpr [ 138 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -129.34 -206.93 1.02 ]
+    nhpr [ 138 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -250.658 -9.77 0.215 ]
+    nhpr [ 140 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -265.67 3 0.45 ]
+    nhpr [ 185 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -53.8 239.1 17.4 ]
+    nhpr [ 15 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -34.495 244.55 17.5 ]
+    nhpr [ 16 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]  
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -15.2915 250 18 ]
+    nhpr [ 12 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ 3.38 253.98 18.5 ]
+    nhpr [ 16.3 0 0 ]
+    width [ 22 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]  
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -110.149 243.113 14.2 ]
+    nhpr [ -10 0 0 ]
+    width [ 18 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -116.6 283.741 14.2 ]
+    nhpr [ 280 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]  
+    ]
+   ]
+   flat_building "tb29:random_DNARoot" [
+    pos [ -113.7 265.493 14.2 ]
+    nhpr [ 280 0 0 ]
+    width [ 23 ]
+    wall [
+     height [ 8 ]
+     code [ "wall_woodflower_fence_ur" ]
+     color [ 1 1 1 1 ]  
+    ]
+   ]                                
+   flat_building "sz0:random_DNARoot" [
+    pos [ -230.2 -36.94 -9.755 ]
+    nhpr [ 125 0 0 ]
+    width [ 11.9 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ul" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.574803 0.38771 0.340374 1 ]
+     ]
+    ]
+   ]
+   flat_building "sz0:random_DNARoot" [
+    pos [ -236.8 -27.2 -9.99 ]
+    nhpr [ -170 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 7 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ul" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.574803 0.38771 0.340374 1 ]
+     ]
+    ]
+   ]
+   flat_building "sz0:random_DNARoot" [
+    pos [ -213 -75.56 -9.5 ]
+    nhpr [ 125 0 0 ]
+    width [ 12.75 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ul" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.574803 0.38771 0.340374 1 ]
+     ]
+    ]
+   ]  
+  ]
+  prop "construction_zone_sz" [
+   code [ "construction_zone_sz" ]
+   pos [ 0 0 0 ]
+   nhpr [ -90 0 -0 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ 148.48 2.68 80.01 ]
+    nhpr [ -75 0 0 ]
+    scale [ 6 4 5.5 ]
+   ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -130 -86.7 -5 ]
+    nhpr [ -175 0 0 ]
+    scale [ 7 8.2 7.9 ]
+   ]
+   prop "prop_shanty_gypsywagon_exterior_CZ_DNARoot" [
+    code [ "prop_shanty_gypsywagon_exterior_CZ" ]
+    pos [ -141 70 2.2 ]
+    nhpr [ 205 0 -1 ]
+    scale [ 1.3 1.5 1.3 ]
+   ]
+   prop "prop_table1_CZ_DNARoot" [
+    code [ "prop_table1_CZ" ]
+    pos [ -132.7 54.4 2.14 ]
+    nhpr [ 205 0 0 ]
+    scale [ 7 1.5 1.7 ]
+   ]
+   prop "prop_table1_CZ_DNARoot" [
+    code [ "prop_table1_CZ" ]
+    pos [ -148.5 87.67 2.14 ]
+    nhpr [ 205 0 0 ]
+    scale [ 7 1.5 1.7 ]
+   ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ 136 -63.12 68 ]
+    nhpr [ -175 0 0 ]
+    scale [ 5.2 6.2 9.9 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -144.48 127.68 -.901 ]
+    nhpr [ -165 0 0 ]
+    scale [ 2.5 2.5 2.5 ]
+  ]
+   prop "prop_dirt_ramp_CZ_DNARoot" [
+    code [ "prop_dirt_ramp_CZ" ]
+    pos [ -170.8 -47.49 2.53 ]
+    nhpr [ 220 0 0 ]
+    scale [ 0.4 0.4 0.4 ]
+  ]
+   prop "prop_dirt_ramp_CZ_DNARoot" [
+    code [ "prop_dirt_ramp_CZ" ]
+    pos [ -194.2 70.79 2.53 ]
+    nhpr [ 220 0 0 ]
+    scale [ 0.5 0.12 0.4 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 143.363 17.6335 88.57 ]
+    nhpr [ 271 0 1 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -106.40 -66.72 2.1 ]
+    nhpr [ -175 0 0 ]
+    scale [ 3.2 3.2 3.2 ]
+   ]
+   prop "prop_tree_fat_ur_DNARoot" [
+    code [ "prop_tree_fat_ur" ]
+    pos [ 209 197 3.2 ]
+    nhpr [ 145 0 0 ]
+    scale [ 1.4 1.4 1.4 ]
+   ]
+   prop "prop_tree_fat_ur_DNARoot" [
+    code [ "prop_tree_fat_ur" ]
+    pos [ 312 -32 3 ]
+    nhpr [ 145 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -137.037 -91.415 12.22 ]
+    nhpr [ 110 0 15 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -90.5 -154.34 30 ]
+    nhpr [ 143 0 0 ]
+    scale [ 3 3 12 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -140.5 -86.34 0 ]
+    nhpr [ 220 0 0 ]
+    scale [ 7 10 16 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -141 -86.34 0 ]
+    nhpr [ 290 0 0 ]
+    scale [ 8 10 16 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 384.665 -76.84 0.22 ]
+    nhpr [ 170 0 0 ]
+    scale [ 23 20 40 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -102.665 -222.584 0.72 ]
+    nhpr [ 150 0 0 ]
+    scale [ 10 10 10 ]
+  ]
+   prop "prop_crateinv_CZ_DNARoot" [
+    code [ "prop_crateinv_CZ" ]
+    pos [  257.665 34.84 -0.3 ]
+    nhpr [ 260 0 0 ]
+    scale [ 2 2 7 ]
+   ]
+   prop "prop_wellA_CZ_DNARoot" [
+    code [ "prop_wellA_CZ" ]
+    pos [ 257.665 34.84 -0.3 ]
+    nhpr [ 260 0 0 ]
+    scale [ 0.8 0.8 0.8 ]
+   ]
+   prop "prop_shanty_CZ_DNARoot" [
+    code [ "prop_shanty_CZ" ]
+    pos [ 289.665 112.584 -1.85 ]
+    nhpr [ 280 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+   ]
+   prop "prop_shanty_leanto_CZ_DNARoot" [
+    code [ "prop_shanty_leanto_CZ" ]
+    pos [ 298.65 67.05 -0.015 ]
+    nhpr [ 280 0 0 ]
+    scale [ 1.1 1.1 1 ]
+   ]
+   prop "prop_shanty_leanto_B_CZ_DNARoot" [
+    code [ "prop_shanty_leanto_B_CZ" ]
+    pos [ 303.35 17.05 -0.015 ]
+    nhpr [ 280 0 0 ]
+    scale [ 1.1 1.1 1 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -45.665 -265.584 0.72 ]
+    nhpr [ 140 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 36.665 -311.584 10 ]
+    nhpr [ 150 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 125.665 -340.584 20 ]
+    nhpr [ 160 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 141.665 -335.584 30 ]
+    nhpr [ 170 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_Log_stack_a_DNARoot" [
+    code [ "prop_Log_stack_a" ]
+    pos [ 300.397 86.5 0 ]
+    nhpr [ -70 0 0 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 194.665 -327.584 30 ]
+    nhpr [ 180 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 276.665 -321.584 30 ]
+    nhpr [ 185 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 352.665 -260.584 45 ]
+    nhpr [ 220 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 424.665 -202.584 45 ]
+    nhpr [ 220 0 0 ]
+    scale [ 10 10 15 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 398.665 -114.584 30 ]
+    nhpr [ 280 0 0 ]
+    scale [ 10 10 15 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 385.665 -38.584 10 ]
+    nhpr [ 280 0 0 ]
+    scale [ 10 10 15 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 372.665 49.584 5 ]
+    nhpr [ 280 0 0 ]
+    scale [ 10 10 15 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 342.665 110.584 5 ]
+    nhpr [ 290 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 333.065 180.584 0 ]
+    nhpr [ 280 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 315.065 271.584 -1 ]
+    nhpr [ 280 0 0 ]
+    scale [ 10 10 15 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 235.065 270.584 10 ]
+    nhpr [ 0 0 0 ]
+    scale [ 10 10 15 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 150.065 270.584 5 ]
+    nhpr [ 0 0 0 ]
+    scale [ 10 10 15 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ 75.065 270.584 5 ]
+    nhpr [ 0 0 0 ]
+    scale [ 10 10 15 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -128.205 -121.087 20.55 ]
+    nhpr [ 115 0 15 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -122.665 -130.584 23.72 ]
+    nhpr [ 120 0 14 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -114.67 -136.566 26.04 ]
+    nhpr [ 140 0 16 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -106 -143.8 29.3 ]
+    nhpr [ 142 0 14 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -97 -149.88 32.3 ]
+    nhpr [ 145 0 16 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -84.4823 -155.91 35.55 ]
+    nhpr [ 160 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -73.4823 -158.91 37.55 ]
+    nhpr [ 164 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -60.71 -161.52 39.89 ]
+    nhpr [ 170 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -49.226 -160.211 40.557 ]
+    nhpr [ 190 0 4 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -36.226 -158.011 40.557 ]
+    nhpr [ 190 0 1 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -16.493 -161.011 40.557 ]
+    nhpr [ 158 0 1 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -2.484 -166.511 40.557 ]
+    nhpr [ 158 0 1 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 8.53 -163.58 40.557 ]
+    nhpr [ 200 0 1 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 18.91 -159.68 40.557 ]
+    nhpr [ 200 0 1 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 48.4495 -166.053 42.18 ]
+    nhpr [ 160 0 7 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 65.538 -170.78 44.93 ]
+    nhpr [ 164 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 80.3525 -173.995 47.485 ]
+    nhpr [ 170 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 91.78 -173.2 49.4 ]
+    nhpr [ 183 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 103.776 -173.15 51.5 ]
+    nhpr [ 183 0 11 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 114.9 -170.53 53.4 ]
+    nhpr [ 192 0 11 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 125.75 -166.96 55.7 ]
+    nhpr [ 198 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 136.5 -163.4 57.7 ]
+    nhpr [ 201 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 145.6 -156.5 60.1 ]
+    nhpr [ 214 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 154.96 -148.828 63 ]
+    nhpr [ 218 0 15 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 170.3 -133.056 67.46 ]                 
+    nhpr [ 233 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 176.226 -122.86 70.1 ]
+    nhpr [ 241 0 14 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 180.264 -112.183 71.95 ]
+    nhpr [ 246 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 184.234 -101.046 74.96 ]
+    nhpr [ 247 0 15 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 184.253 -90.06 78 ]
+    nhpr [ 265 0 15 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 184.885 -79.067 80.23 ]
+    nhpr [ 265 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 180.63 -67.8145 82.72 ]
+    nhpr [ 290 0 15 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 176.244 -57.387 84.62 ]
+    nhpr [ 292 0 13 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 169.194 -48.9477 85.69 ]
+    nhpr [ 307 0 10 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 155.87 -33.029 87.81 ]                  
+    nhpr [ 307 0 9 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ 147.88 -23.93 88.37 ]
+    nhpr [ 310 0 5 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -139.84 -64.6356 6.786 ]
+    nhpr [ 79 0 14 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -137.84 -52.6356 4.766 ]
+    nhpr [ 82 0 12 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -113.41 -74.6674 8.2122 ]
+    nhpr [ 1349 -2 -12 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -112.096 -86.3664 11.42 ]
+    nhpr [ -75 0 -14 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence_CZ_DNARoot" [
+    code [ "prop_terrain_fence_CZ" ]
+    pos [ -108.4 -99.52 15.13 ]
+    nhpr [ -60 0 -16 ]
+    scale [ 0.8 0.7 0.7 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -111.665 275.184 5.72 ]
+    nhpr [ 170 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -205.665 290.184 2 ]
+    nhpr [ 100 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -211.665 375.184 10.72 ]
+    nhpr [ 170 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -315.665 27.184 2 ]
+    nhpr [ 120 0 0 ]
+    scale [ 10 10 10 ]
+   ]
+   prop "prop_terrain_fence2_CZ_DNARoot" [
+    code [ "prop_terrain_fence2_CZ" ]
+    pos [ -269.665 1 -10 ]
+    nhpr [ 140 0 0 ]
+    scale [ 10 10 10 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ 149.87 -17.95 79.66 ]
+    nhpr [ -175 0 0 ]
+    scale [ 2.2 5.2 5.9 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -145.40 -69.72 0.02 ]
+    nhpr [ -175 0 0 ]
+    scale [ 4.9 4.9 4.9 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -31.25 -49.12 0 ]
+    nhpr [ -175 0 0 ]
+    scale [ 3 4.9 3 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -46.34 -124.46 27 ]
+    nhpr [ -105 0 0 ]
+    scale [ 4.9 6.9 6.9 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -101.40 -76.72 .02 ]
+    nhpr [ -175 0 0 ]
+    scale [ 5.8 5.8 5.8 ]
+  ]
+   prop "prop_trellisB_DNARoot" [
+    code [ "prop_trellisB" ]
+    pos [ 183 168.8 0 ]
+    nhpr [ 45 0 0 ]
+    scale [ 1.6 1.3 1.3 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ -3.4926 21.9454 9 ]
+    nhpr [ 88 0 0 ]
+    scale [ 2 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ -3.926 5.345 15 ]
+    nhpr [ 89 0 0 ]
+    scale [ 1 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ -3.7926 21.9454 21 ]
+    nhpr [ 86 0 0 ]
+    scale [ 2 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ -1.03 21.9454 33 ]
+    nhpr [ 86 0 0 ]
+    scale [ 2 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 0 38.9454 27 ]
+    nhpr [ 88 0 0 ]
+    scale [ 1 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 9 38.9454 51 ]
+    nhpr [ 88 0 0 ]
+    scale [ 1 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 23 38.9454 75 ]
+    nhpr [ 87 0 0 ]
+    scale [ 1 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 2 21.9454 45 ]
+    nhpr [ 86 0 0 ]
+    scale [ 2 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 0 5.345 39 ]
+    nhpr [ 88 0 0 ]
+    scale [ 1 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 9 21.9454 57 ]
+    nhpr [ 86 0 0 ]
+    scale [ 2 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 16 21.9454 69 ]
+    nhpr [ 84.1 0 0 ]
+    scale [ 2 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 11 5.345 63 ]
+    nhpr [ 88 0 0 ]
+    scale [ 1 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 27.2 5.345 88 ]
+    nhpr [ 88.8 0 0 ]
+    scale [ 1 1 1 ]
+  ]
+   prop "prop_Elevator_DNARoot" [
+    code [ "prop_Elevator" ]
+    pos [ 24 21.9454 81 ]
+    nhpr [ 86 0 0 ]
+    scale [ 2 1 1 ]
+  ]
+   prop "prop_hammer_high_CZ_DNARoot" [
+    code [ "prop_hammer_high_CZ" ]
+    pos [ -155.76 -85.09 2.58 ]
+    nhpr [ 65 4 0 ]
+    scale [ 1.5 2.5 1.5 ]
+  ]
+   prop "prop_wheelbarrow_CZ_DNARoot" [
+    code [ "prop_wheelbarrow_CZ" ]
+    pos [ -21.75 -14 2.5 ]
+    nhpr [ 55 0 0 ]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_Sack_CZ_DNARoot" [
+    code [ "prop_Sack_CZ" ]
+    pos [ 160 -45.145 88.5 ]
+    nhpr [ 55 0 0 ]
+    scale [ 1.3 1.3 1.5 ]
+  ]
+   prop "prop_Sack_CZ_DNARoot" [
+    code [ "prop_Sack_CZ" ]
+    pos [ -56.6 -87.945 38.2 ]
+    nhpr [ 45 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+  ]
+   prop "prop_Sack_CZ_DNARoot" [
+    code [ "prop_Sack_CZ" ]
+    pos [ -45.347 124.143 0 ]
+    nhpr [ 45 0 0 ]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_Sack_CZ_DNARoot" [
+    code [ "prop_Sack_CZ" ]
+    pos [ -39.347 119.143 0 ]
+    nhpr [ 145 0 0 ]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_Sack_CZ_DNARoot" [
+    code [ "prop_Sack_CZ" ]
+    pos [ -51.347 115.143 2.6 ]
+    nhpr [ 45 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+  ]
+   prop "prop_Crane_CZ_DNARoot" [
+    code [ "prop_Crane_CZ" ]
+    pos [ -33.647 -42 -1 ]
+    nhpr [ 60 0 0 ]
+    scale [ 1 1 1.6 ]
+  ]
+   prop "prop_sack_18stack_CZ_DNARoot" [
+    code [ "prop_sack_18stack_CZ" ]
+    pos [ -167.3 -96.12 0 ]
+    nhpr [ 45 0 0 ]
+    scale [ 1.3 1.3 1.3 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -157 -92.52 2.54 ]
+    nhpr [ 55 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -157.6 -92.62 0 ]
+    nhpr [ 75 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -156.6 -85.12 0 ]
+    nhpr [ 45 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -158.9 -90.1 0 ]
+    nhpr [ 45 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -160.33 -85 0 ]
+    nhpr [ 45 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crateinv_CZ_DNARoot" [
+    code [ "prop_crateinv_CZ" ]
+    pos [  157.8 -32.2 73.2 ]
+    nhpr [ 50 0 0 ]
+    scale [ 5 4 8 ]
+  ]
+   prop "prop_crateinv_CZ_DNARoot" [
+    code [ "prop_crateinv_CZ" ]
+    pos [  -32.8 -41.8 2.2 ]
+    nhpr [ 50 0 0 ]
+    scale [ 5 4 8 ]
+  ]
+   prop "prop_wheelbarrow_CZ_DNARoot" [
+    code [ "prop_wheelbarrow_CZ" ]
+    pos [ 158.347 -44.143 86 ]
+    nhpr [ 130 0 -12 ]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -323.347 236.143 -27.4 ]
+    nhpr [ 45 0 10 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -334.863 217.207 -30.37 ]
+    nhpr [ 95 0 -30 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -108.0 -57.58 2.4 ]
+    nhpr [ 45 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -108.45 -62.78 2.5 ]
+    nhpr [ 95 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -110.05 -60.58 2.2 ]
+    nhpr [ 185 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -110.05 -60.58 4.725 ]
+    nhpr [ 185 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_crate_CZ_DNARoot" [
+    code [ "prop_crate_CZ" ]
+    pos [ -107.05 -60.58 2.5 ]
+    nhpr [ 135 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_party_gate_DNARoot" [
+    code [ "prop_party_gate" ]
+    pos [ 146 270 14 ]
+    nhpr [ -15 0 0 ]
+  ]
+   prop "prop_tire_DNARoot" [
+    code [ "prop_tire" ]
+    pos [ -288.25 227.08 -26.7 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_ladder_CZ_DNARoot" [
+    code [ "prop_ladder_CZ" ]
+    pos [ -242.3371 -0.02 -0.52 ]
+    nhpr [ 30 18.8 0 ]
+    scale [ 1 1 0.85 ]
+  ]
+   prop "prop_tire_DNARoot" [
+    code [ "prop_tire" ]
+    pos [ -268.65 202.38 -29.55 ]
+    nhpr [ 0 0 30 ]
+  ]
+   prop "prop_rock_2_floor_DNARoot" [
+    code [ "prop_rock_2_floor" ]
+    pos [ -5.65 36.38 2.55 ]
+    nhpr [ 0 0 0 ]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_rock_2_floor_DNARoot" [
+    code [ "prop_rock_2_floor" ]
+    pos [ -9.85 48.38 2.55 ]
+    nhpr [ 50 0 -40 ]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_rock_2_floor_DNARoot" [
+    code [ "prop_rock_2_floor" ]
+    pos [ -10.65 60.38 2.55 ]
+    nhpr [ 40 0 0 ]
+    scale [ 1.5 2 1.5 ]
+ ]
+   prop "prop_rock_2_floor_DNARoot" [
+    code [ "prop_rock_2_floor" ]
+    pos [ -7.65 53.38 6.5 ]
+    nhpr [ 90 0 20 ]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_rock_2_floor_DNARoot" [
+    code [ "prop_rock_2_floor" ]
+    pos [ -10.65 -9.38 2.55 ]
+    nhpr [ 70 0 30]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_rock_2_floor_DNARoot" [
+    code [ "prop_rock_2_floor" ]
+    pos [ -9.65 0.38 2.55 ]
+    nhpr [ 0 0 0 ]
+    scale [ 2 2 2 ]
+  ]
+  prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -14.40 -28.24 .025 ]
+    nhpr [ -175 0 0 ]
+    scale [ 4.7 4.7 4.7 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -262.40 93.24 -20.025 ]
+    nhpr [ -175 0 0 ]
+    scale [ 9.7 9.7 8.2 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -225.228 121.788 -20.15 ]
+    nhpr [ -105 0 0 ]
+    scale [ 9.5 9.5 7.2 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -13.40 100.02 -0.5 ]
+    nhpr [ -175 0 0 ]
+    scale [ 4.9 4.9 4.9 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -224 131.02 -14.9 ]
+    nhpr [ -175 0 0 ]
+    scale [ 3.1 3.1 5.2 ]
+  ]
+   prop "prop_dirt_pile_full_DNARoot" [
+    code [ "prop_dirt_pile_full" ]
+    pos [ -247.6 98.17 -14.9 ]
+    nhpr [ -125 0 0 ]
+    scale [ 3.1 3.1 5.2 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 184 227 9 ]
+    nhpr [ 165 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 196.7 118 0 ]
+    nhpr [ 165 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -275.1 23.1 3.3 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -233.2 -115.7 2.75 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -283 41 5.2 ]
+    nhpr [ 165 0 0 ]
+
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ 161.4 150.8 1 ]
+    nhpr [ 165 0 0 ]
+    scale [ 1.1 1.1 1.1 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -253 3.92 .11 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 280 198 1.7 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -218.95 41.95 -0.05 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -250.5 -98.95 2.3 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -222 -121.95 2.09 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -215.57 -134.32 1.8 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -149.922 -175.069 2.2 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ 274 -42.35 1.09 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 259.57 -37.32 0 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 242.22 -35.069 0.2 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 286.88 164.6 1.0 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -243.95 -114.95 3.45 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ul_DNARoot" [
+    code [ "prop_tree_large_ul" ]
+    pos [ -155.15 -97.89 0.077 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 62.04 312.19 13.58 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -255.1 20.1 1.1 ]               
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -263 31 2.2 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -228 30.92 .11 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -134.1 193.1 7.1 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -187 159 1.8 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -174 137 0.83 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -30 241 19.6 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -29 214.95 20.5 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ 255.5 176.95 2.66 ]
+    nhpr [ 0 0 0 ]
+    scale [ 1.2 1.2 1.2 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -239 -181.95 13.09 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -229.57 -191.32 12.8 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -243.95 -114.95 3.45 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ul_DNARoot" [
+    code [ "prop_tree_large_ul" ]
+    pos [ 322.15 -13.89 0.277 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ 232 185.95 3.09 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 216.57 183.32 2.8 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ 178.95 118.95 0.45 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ul_DNARoot" [
+    code [ "prop_tree_large_ul" ]
+    pos [ 171.95 137.49 0.277 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ul_DNARoot" [
+    code [ "prop_tree_large_ul" ]
+    pos [ 121.15 137.89 0.277 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "gs_cone_01" [
+    code [ "gs_cone" ]
+    pos [ -23.9778 87.16125 2.54 ]
+    nhpr [ 0 0 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_02" [
+    code [ "gs_cone" ]
+    pos [ -14.2677 78.55 2.54 ]
+    nhpr [ 0 0 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_03" [
+    code [ "gs_cone" ]
+    pos [ -33.6418 103.53 2.54 ]
+    nhpr [ 30 0 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_04" [
+    code [ "gs_cone" ]
+    pos [ -81.8 -65.0442 2.54 ]
+    nhpr [ 30 0 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_05" [
+    code [ "gs_cone" ]
+    pos [ -75.3526 -65.9477 2.54 ]
+    nhpr [ 0 0 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_06" [
+    code [ "gs_cone" ]
+    pos [ -92.15 -62.954 2.54 ]
+    nhpr [ 30 0 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_07" [
+    code [ "gs_cone" ]
+    pos [ -331.5 134 -27.54 ]
+    nhpr [ -130 -75 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_08" [
+    code [ "gs_cone" ]
+    pos [ -224.348 125.7 -10 ]
+    nhpr [ -130 0 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_09" [
+    code [ "gs_cone" ]
+    pos [ -280.048 99.7 -9 ]
+    nhpr [ -130 0 0 ]
+    scale [ 3 3 3 ]
+  ]
+   prop "gs_cone_10" [
+    code [ "gs_cone" ]
+    pos [ 24.3075 -155.284 40.55 ]
+    nhpr [ 30 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_11" [
+    code [ "gs_cone" ]
+    pos [ 27.3808 -156.306 40.57 ]
+    nhpr [ 100 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_12" [
+    code [ "gs_cone" ]
+    pos [ 38.6032 -130.587 40.55 ]
+    nhpr [ -170 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_13" [
+    code [ "gs_cone" ]
+    pos [ 33.5747 -159.387 41.05 ]
+    nhpr [ -100 0 0 ]
+    scale [ 2.3 2.3 2.3]
+  ]
+   prop "gs_cone_14" [
+    code [ "gs_cone" ]
+    pos [ 36.9787 -161.079 41.31 ]
+    nhpr [ -130 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_15" [
+    code [ "gs_cone" ]
+    pos [ 18.4059 -156.335 40.51 ]
+    nhpr [ -130 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_16" [
+    code [ "gs_cone" ]
+    pos [ 59.26 48.477 88.55 ]
+    nhpr [ 100 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_17" [
+    code [ "gs_cone" ]
+    pos [ 52.878 45.989 88.55 ]
+    nhpr [ -170 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_18" [
+    code [ "gs_cone" ]
+    pos [ 142.966 -2.275 88.55 ]
+    nhpr [ -100 0 0 ]
+    scale [ 2.3 2.3 2.3]
+  ]
+   prop "gs_cone_19" [
+    code [ "gs_cone" ]
+    pos [ 143.475 -12.8997 88.55 ]
+    nhpr [ -130 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_20" [
+    code [ "gs_cone" ]
+    pos [ 145.168 -21.267 88.5 ]
+    nhpr [ -30 0 0 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_21" [
+    code [ "gs_cone" ]
+    pos [ -140.631 -77.3929 9.28 ]
+    nhpr [ -130 0 -6 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_22" [
+    code [ "gs_cone" ]
+    pos [ -139.054 -66.963 7.135 ]
+    nhpr [ 100 0 -1 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_23" [
+    code [ "gs_cone" ]
+    pos [ -135.389 -96.317 13.34 ]
+    nhpr [ -170 0 -3 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_24" [
+    code [ "gs_cone" ]
+    pos [ -136.552 -101.89 15.05 ]
+    nhpr [ -100 0 -10 ]
+    scale [ 2.3 2.3 2.3]
+  ]
+   prop "gs_cone_25" [
+    code [ "gs_cone" ]
+    pos [ -135.673 -106.239 16.26 ]
+    nhpr [ -130 0 -12 ]
+    scale [ 2.3 2.3 2.3 ]
+  ]
+   prop "gs_cone_26" [
+    code [ "gs_cone" ]
+    pos [ -133.28 -110.74 17.59 ]
+    nhpr [ -30 0 -15 ]
+    scale [ 2.3 2.3 2.3 ]
+   ]
+   prop "gs_cone_27" [
+    code [ "gs_cone" ]
+    pos [ -109.87 -98.21 14.7 ]
+    nhpr [ -30 -3 -12 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_28" [
+    code [ "gs_cone" ]
+    pos [ -95.2 -151.67 33 ]
+    nhpr [ -30 0 -4 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_29" [
+    code [ "gs_cone" ]
+    pos [ -33.1 -156.77 40.5 ]
+    nhpr [ -130 0 0  ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_30" [
+    code [ "gs_cone" ]
+    pos [ -29.454 -155.16 40.5 ]
+    nhpr [ -30 0 -0 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_31" [
+    code [ "gs_cone" ]
+    pos [ -13.84 -161.54 40.5 ]
+    nhpr [ -30 0 -0 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_32" [
+    code [ "gs_cone" ]
+    pos [ 68.34 -171.47 45.5 ]
+    nhpr [ -130 0 0  ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_33" [
+    code [ "gs_cone" ]
+    pos [ 54.38 -166.53 42.9 ]
+    nhpr [ -30 0 1 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_34" [
+    code [ "gs_cone" ]
+    pos [ 50.63 -166.98 42.35 ]
+    nhpr [ -30 0 -0 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_35" [
+    code [ "gs_cone" ]
+    pos [ 157.5 -147.05 63.47 ]
+    nhpr [ -130 0 2  ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_36" [
+    code [ "gs_cone" ]
+    pos [ 159.92 -146.5 63.9 ]
+    nhpr [ 30 0 4 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_37" [
+    code [ "gs_cone" ]
+    pos [ 163 -144.03 64.72 ]
+    nhpr [ -65 0 7 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_38" [
+    code [ "gs_cone" ]
+    pos [ 163.7 -50.03 85.62 ]
+    nhpr [ -65 0 7 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_39" [
+    code [ "gs_cone" ]
+    pos [ 162.4 -43.36 86.72 ]
+    nhpr [ -65 0 7 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_40" [
+    code [ "gs_cone" ]
+    pos [ 168 -50.03 85.72 ]
+    nhpr [ -65 0 7 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_41" [
+    code [ "gs_cone" ]
+    pos [ 142.6 4.6 88.57 ]
+    nhpr [ -85 0 7 ]
+    scale [ 2.2 2.2 2.2 ]
+   ]
+   prop "gs_cone_42" [
+    code [ "gs_cone" ]
+    pos [ 28.174 30.08 81.4 ]
+    nhpr [ -85 0 0 ]
+    scale [ 2 2 2 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 304.04 -55.19 4.58 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 212.1 315.1 19.1 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ 178 321 12.2 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 123 362 12.11 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "neighborhood_sign_DG_DNARoot" [
+    code [ "neighborhood_sign_DG" ]
+    pos [ -87.6 232.3 15.4 ]
+    nhpr [ 20 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+  ]
+   prop "neighborhood_sign_DG_DNARoot" [
+    code [ "neighborhood_sign_DG" ]
+    pos [ -58.16 231.29 17 ]
+    nhpr [ -185 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+  ]
+   prop "neighborhood_sign_DL_DNARoot" [
+    code [ "neighborhood_sign_DL" ]
+    pos [ 25.33 252.0 19.1 ]
+    nhpr [ -30 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+  ]
+   prop "neighborhood_sign_DL_DNARoot" [
+    code [ "neighborhood_sign_DL" ]
+    pos [ 55.23 242.31 17.02 ]
+    nhpr [ -185 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+  ]
+   prop "neighborhood_sign_BR_DNARoot" [
+    code [ "neighborhood_sign_BR" ]
+    pos [ -179.7 -88.55 -.0728 ]
+    nhpr [ 140 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+  ]
+   prop "neighborhood_sign_BR_DNARoot" [
+    code [ "neighborhood_sign_BR" ]
+    pos [ -204.95 -73.492 0.615 ]
+    nhpr [ -55 0 0 ]
+    scale [ 1.5 1.5 1.5 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -175.58 -116.549 0.117 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -157.652 -133.502 0.293 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -157.779 -148.133 1.25 ]
+    nhpr [ 165 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -176.727 -146.283 1.164 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ -174.15 -158.2 1.9 ]              
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -228.95 41.95 -0.05 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -250.5 -98.95 2.3 ]
+    nhpr [ 0 0 0 ] 
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ -218.95 11.95 0.09 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ul_DNARoot" [
+    code [ "prop_tree_large_ul" ]
+    pos [ -100.5 277.82 16.0 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_small_ur_DNARoot" [
+    code [ "prop_tree_small_ur" ]
+    pos [ 88.48 254.45 16.17 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_fat_ur_DNARoot" [
+    code [ "prop_tree_fat_ur" ]
+    pos [ 215.643 236.191 11.71 ]
+    nhpr [ 135 0 0 ]
+  ]
+   prop "prop_tree_fat_ur_DNARoot" [
+    code [ "prop_tree_fat_ur" ]
+    pos [ 249.40 -169.108 8.763 ]
+    nhpr [ 135 0 0 ]
+  ]
+   prop "prop_tree_large_ul_DNARoot" [
+    code [ "prop_tree_large_ul" ]
+    pos [ 100 242 14.72 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ul_DNARoot" [
+    code [ "prop_tree_large_ul" ]
+    pos [ -244.5 56.82 1.05 ]
+    nhpr [ 0 0 0 ]
+  ]
+   prop "prop_tree_large_ur_DNARoot" [
+    code [ "prop_tree_large_ur" ]
+    pos [ 42.04 302.19 13.58 ]
+    nhpr [ 0 0 0 ]
+  ]
+ ]
+]
