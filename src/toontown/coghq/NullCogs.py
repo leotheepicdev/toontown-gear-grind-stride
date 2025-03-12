@@ -1,0 +1,3 @@
+BattleCells = {}
+CogData = []
+ReserveCogData = []

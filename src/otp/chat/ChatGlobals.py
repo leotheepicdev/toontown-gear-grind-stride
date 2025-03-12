@@ -1,0 +1,12 @@
+SPEEDCHAT_NORMAL = 1
+SPEEDCHAT_EMOTE = 2
+SPEEDCHAT_CUSTOM = 3
+ChatEvent = 'ChatEvent'
+NormalChatEvent = 'NormalChatEvent'
+SCChatEvent = 'SCChatEvent'
+SCCustomChatEvent = 'SCCustomChatEvent'
+SCEmoteChatEvent = 'SCEmoteChatEvent'
+SCQuestEvent = 'SCQuestEvent'
+OnScreen = 0
+OffScreen = 1
+Thought = 2

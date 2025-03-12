@@ -1,0 +1,84 @@
+- Split up goons, cogbosses, and suits into 3 folders in enemies folder for organization.
+- Organize CogHQ files into folders. easier to click an extra folder than to find the actual file u want with coghq folder.
+- Rewrite CSM, TCR, Nametags, and Chat.
+- Eliminate some avatar code.
+- Add security to prevent MITM hackers
+- Add a login queue so uberdog doesn't screw up when a bunch of toons are trying to log on at the same time
+- Redo how building manager saving is done
+- Implement a new cog type into the game
+- Fix Lawbot field offices
+- Add Cashbot and Bossbot Field Offices
+- Add ability to delete track training quests
+- Remove use of cPickle
+- Take a look at racing and figure why the timer doesn't countdown correctly.
+- Add cog heads to the district page when it is invading.
+- Add a chat log as a third speedchat button.
+- Add a hardcore + uber mode for Toons.
+- Have it so you can pick any gag when picking a new gag track.
+- Give Doodles the ability to follow you.
+- Redo Make a Toon
+- Redo Toontorial
+- FPS Cap Option.
+- Achievements
+- Guilds
+- Cog Nation
+- Fix Cog Page (posssibly a new cog page gui?)
+- Change the Options Page GUI
+- Indicate Cog Buildings/Field Offices on QuestMap
+- Fix storeObjectLocation(avId): parent (districtId) not present issue.
+- Slumber Street needs a street map.
+- Fix imports for newer panda
+- Ability to vote to skip boss cutscenes
+- Fix issue with toons being able to be apart of 2 battles
+- Nerf doodle training, racing, gardening, golfing.
+- New taskline.
+- Improve battle movies.
+- Work on parties.
+- Redo Group Tracker
+- New music (battle music for each playground too)
+- Instead of default blue background in loading screen, include different images. (such as toons dancing when defeating cog bldgs)
+- Reward when completing Cog Building (chance to get a crate possibly?)
+- Add more rewards to crates.
+- Fix issue where when a Toon uses a unite when close to dying, the movie acts as if the toon is dying and stalls for more seconds.
+- Improve the Toontown Central playground dna design.
+- Add suffixes to Cog Buildings like LLC
+- Turn Banker Bob into a Bank NPC where you can store jellybeans and receive interest on stored jellybeans once per a certain amount of time
+- Indicator that a gag is organic.
+- Throw and Squirt SOS cards
+- In the CJ Boss, make the toon on trail be a random list of certain npcs instead of just the current one. Also have all cog types act as the jury.
+- Tweak Toon Tips.
+- Fix Boss Battle FPS Drop and Lag
+- Add ability to un-truefriend someone.
+- Make right-clicking a speedchat phrase turn it into a thought bubble instead.
+- Make a speedchat menu fade animation when you click it.
+- Add a hard mode version of each boss.
+- Give Snooze Bar in DDL a purpose.
+- Remove rest of Disney References from textures.
+- Blooming Flower of Doom and possibly a varient of that for the DD Boat.
+- Add a version of Toon Rewrite where you can change everything about your Toon but Gender.
+- Sos Card Quest rewards
+- Add a indicator that indicates a toon is in a boarding group like maybe some sort of icon?
+- Add a trade system where you can trade stuff like sos cards, unites, maybe jellybeans?
+- Last Seen + Toon ID
+- Content Pack support
+- Better way of indicating Just For Fun
+- Merge some of district stats with ToontownDistrict and eventually eliminate district stat files.
+- Implement all of the cog operations
+- Update more of the headlines and more questposter tweaks
+- Reverse whisper gui completely back to TTO. Whisper input has been done.
+- Weekly Challenges
+- Unused Picnic Game activities
+- Allow toons to set their own nametag color
+- Buff CFO goons
+- Add a holiday where parties costs are reduced for the day
+- Update Fishing Panel GUI
+- Tweak nametag fonts
+- Higher Leveled Cogs besides the obvious rank 8 cogs.
+- Add an indicator when the VP/CJ is jumping.
+- Make it so when you go sad in the VP, you lose suit parts
+- Ability to delete sos cards
+- WASD support
+- New Toon Species
+- Day and Night cycle
+- Improve the racing experience and make it more fun
+- Fix golfing physics

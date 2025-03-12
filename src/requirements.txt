@@ -1,0 +1,9 @@
+pycryptodome
+termcolor
+wxpython
+psutil
+raven
+colorama
+pymongo
+passlib
+requests[security]

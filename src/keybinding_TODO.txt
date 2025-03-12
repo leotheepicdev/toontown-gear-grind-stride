@@ -1,0 +1,1 @@
+- controls should update while changing keybinds (ex. questmap, inventory)

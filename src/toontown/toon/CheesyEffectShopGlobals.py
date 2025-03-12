@@ -1,0 +1,9 @@
+from toontown.base import TTLocalizer
+
+
+USER_CANCEL = 0
+USER_BUY = 1
+
+NOT_ENOUGH_MONEY = 0
+PURCHASE_SUCCESSFUL = 1
+PURCHASE_OWN = 2

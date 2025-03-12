@@ -1,0 +1,13 @@
+[submodule "build/panda3d"]
+	path = build/panda3d
+	url = https://gitlab.com/toontowngeargrind/panda3d.git
+[submodule "build/nirai"]
+	path = build/nirai
+	url = https://gitlab.com/toontowngeargrind/nirai.git
+    branch = python2
+[submodule "build/makefile/libpandadna"]
+	path = build/makefile/libpandadna
+	url = https://github.com/loblao/libpandadna.git
+[submodule "resources"]
+	path = resources
+	url = https://gitlab.com/toontowngeargrind/resources.git

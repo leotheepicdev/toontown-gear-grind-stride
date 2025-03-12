@@ -1,0 +1,73 @@
+Leo's Toontown source release notes.
+Based on Stride
+
+V1.0.0 - The General Update
+------
+
+General
+- Removed Easy Promotion Papers from Toontown Stride
+- A new holiday has been added into Toontown. Fun Friday! Every Friday, Gag XP is double! If an invasion is present, Gag XP is triple!
+- Got school and can't grind your merits? Don't worry, a new holiday has been added into Toontown! Merit Monday! Every Monday, the Merit multiplier is doubled!
+- Merit Toontasks now exist. Completing them will reward you with 20% of your max merits. Note that you can only get Merit Toontask once done the taskline. Use this reward wisely.
+  These Toontasks will be removed while searching for ToonTasks once you max your Cog Disguise.
+- Add random cog invasion logic.
+- Along with random cog invasion login, added Mega Invasion logic. When a mega invasion holiday is active, the cogs that invade with the holiday, have a 40% of spawning per random invasion spawn.
+  These invasions last longer than a typical invasion. Tax Day has Number Crunchers. Black Cat Day has Bloodsuckers. Valentoons Day has The Minglers. Ides of March has Backstabbers.
+- Executive Cogs have invaded Toontown! They have a chance of spawning in streets and random invasions. Their attack damage is 1.5x with damage rounding up if the damage ends up being a decimal. 
+  Executive Cogs also have a higher chance than regular cogs to dodge Gags. Expect more work to be done with these cogs.
+- Cheesy Effects have been reworked. Now you can buy them from an npc and store them forever.
+- Removed Code Redemption
+- Virtual Cog Update
+ - 4 varieties. ATK(Red), HP(Green), DEF(Blue), ACC(Pink)
+ - ATK does double damage. HP has double HP. DEF dodges gag attacks more. ACC hits no matter what.
+ - Virtual cogs have a 10% chance of spawning in LawbotHQ and Lawbot Cog Buildings.
+ - They now provide Gag experience.
+ Context: Current virtual cogs just felt bland. We wanted to make them come in colors. Our goal with this update was to keep them rare,
+          but make them more punishing.
+- All cog tiers now go up another 3 levels!
+- 6 and 7 story cog buildings have been implemented into Toontown!
+- Implement "Doodles Power Up" SOS card. This will last 2 rounds and allow doodles to hit and heal triple of their normal amount.
+ 
+Toontown Tweaks
+- Skelecogs now always pick random toons.
+- Sellbot HQ factory has been made more difficult. Cogs are as difficult as TTO's old factory, Goons deal more damage, Stompers deal more damage, and Lava deals more damage. Added 3 skelecogs to Lava Room Foyer.
+- VP has received damage buffs in the pie round.
+- VP battle rounds have been made harder.
+- Pencil Pusher's Fill With Lead attack has received a damage buff and slight accuracy buff to truly show it's a signature attack.
+- Yesman has received a damage and accuracy buff.
+- Micromanager's Brainstorm attack has received a accuracy buff.
+- Tweaked Glad Hander damage.
+- Tweaked The Big Cheese, Loan Shark, Robber Baron cog attacks.
+- Visually improve Fill With Lead and Fountain Pen
+- Experience cap has been increased from 300 to 500.
+- More than one toon may now be at the same gag clerk.
+- Reimplemented Whisper from Toontown Online which tells you a building you saved has been taken over.
+- V2.0 Cogs will now have their version highlighted in red.
+- A new cog attack named Song and Dance has been added. Song and Dance is a group attack that is on Mr. Hollywood and The Big Cheese.
+- Added backface culling for Cogs and Boss heads.
+- Added smooth animations
+- Removed blue background from shtiker book and instead show the area you are in but darken it.
+- Tweak ToonTask posters
+- Removed Clerk Clara tutorial movie.
+- Chat will no longer send when it overflows. Messages containing only whitespace will not send anymore.
+- Cog disguises have been upgraded! Toons have figured out how to obtain Cog heads and their voices! Those Cogs will never know the difference now!
+- Added a "Withdraw All" button to Bank GUI in estates!
+- Rebalanced Sound. Opera damage has gone from 90 to 75. Foghorn carry limit has gone from 3 to 2. Trunk and Aoogah damage slightly increased. Nerfed experience required to max Sound.
+ Context: Higher leveled sound felt overpowered, while lower leveled sound felt underwhelming. We wanted to make Foghorn use more punishing while allowing lower sound to still be useful.
+- Trap damage has been buffed.
+- Increased Battle Timer to 25 seconds
+
+Bug Fixes
+- Fixed minor bug with Cog Buildings.
+- Fixed Cogs Miss and Toons Hit SOS movies.
+- Worked on issue with music working when volume is 0. Let a staff member know if you have volume set to 0 and music is playing.
+- Fixed the "Page Down" key not working.
+
+Note to Toons:
+- Let a staff member know if anything is wrong with music or sfx.
+- Any bugs, glitches or crashes occur.
+
+
+Credits:
+Toontown Rewritten, Toontown Infinite, Toontown Stride, Operation Dessert Storm, Toontown: Project Altis.
+Doctor Dynamite for some music in-game.
